@@ -2,530 +2,110 @@
 
 <div align="center">
 
-# 📚 TABLE OF CONTENTS
-## Python Tutorial Roadmap
+# ✨ Python Knowledge Roadmap
+## Clean • Aesthetic • Robotics-Oriented README
+
+<img src="https://img.shields.io/badge/Language-Python-yellow?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/Focus-Robotics%20%26%20AI%20Perception-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Level-Beginner%20to%20Advanced-success?style=for-the-badge" />
 
 </div>
 
 ---
 
-# 🟦 Phase 1 — Setup & Basic Syntax
+## 📌 Overview
 
-## **1. Python Using VS Code**
-- 1.1. VS Code là gì?
-- 1.2. Vì sao dùng VS Code để học Python?
-- 1.3. File Python là gì?
-- 1.4. Chương trình Python đầu tiên
-- 1.5. Cấu trúc project Python cơ bản
-- 1.6. Kiểm tra Python đã cài chưa
-- 1.7. Cài Python Extension trong VS Code
-- 1.8. Chọn Python Interpreter
-- 1.9. Chạy file Python trong VS Code
-- 1.10. Terminal trong VS Code
-- 1.11. Ví dụ project đầu tiên
-- 1.12. Lỗi thường gặp
-- 1.13. Cheat Sheet VS Code
+README này được thiết kế lại theo hướng **thẩm mỹ hơn, gọn hơn, dễ đọc hơn** nhưng vẫn giữ đúng nội dung kiến thức Python ban đầu.
 
-## **2. Python Debugger in VS Code**
-- 2.1. Debugger là gì?
-- 2.2. Vì sao cần Debugger?
-- 2.3. Breakpoint là gì?
-- 2.4. Ví dụ debug vòng lặp
-- 2.5. Các nút debugger quan trọng
-- 2.6. Step Over và Step Into
-- 2.7. Variables Panel
-- 2.8. Call Stack
-- 2.9. Debugger khác gì `print()`
-- 2.10. Ví dụ debug function
-- 2.11. Cách tư duy khi debug
-- 2.12. Cheat Sheet Debugger
+Mục tiêu:
 
-## **3. Python Comments**
-- 3.1. Comment là gì?
-- 3.2. Single-line comment
-- 3.3. Inline comment
-- 3.4. Multi-line comment bằng `''' ... '''`
-- 3.5. Multi-line comment bằng `""" ... """`
-- 3.6. Docstring là gì?
-- 3.7. Docstring cho function
-- 3.8. Docstring cho class
-- 3.9. Comment để giải thích thuật toán
-- 3.10. Comment để ghi TODO
-- 3.11. Comment để tạm tắt code
-- 3.12. Comment tốt và comment chưa tốt
-- 3.13. Cấu trúc Comments cần nhớ
-- 3.14. Ví dụ tổng hợp
-- 3.15. Cheat Sheet Comments
+- Học Python từ nền tảng đến OOP, Project Structure, DSA, NumPy, Matplotlib
+- Có ví dụ code rõ ràng, dễ copy vào VS Code
+- Phù hợp định hướng **Robotics • AI Perception • Computer Vision • ROS2**
+- Có cấu trúc phase rõ ràng để học theo từng đợt
 
 ---
 
-# 🟩 Phase 2 — Variables & Basic Data
+## 🧭 Quick Navigation
 
-## **4. Python Variables and Data Types**
-- 4.1. Variable là gì?
-- 4.2. Công dụng của biến
-- 4.3. Cấu trúc khai báo biến
-- 4.4. Quy tắc đặt tên biến
-- 4.5. Quy ước đặt tên biến
-- 4.6. Kiểm tra kiểu dữ liệu bằng `type()`
-- 4.7. Các kiểu dữ liệu cơ bản trong Python
-- 4.8. Bảng Data Types
-- 4.9. String
-- 4.10. Integer
-- 4.11. Float
-- 4.12. Boolean
-- 4.13. Complex Number
-- 4.14. None
-- 4.15. List
-- 4.16. Tuple
-- 4.17. Set
-- 4.18. Dictionary
-- 4.19. Multiple Assignment
-- 4.20. Dynamic Typing
-- 4.21. Ví dụ tổng hợp
-- 4.22. Cheat Sheet Variables & Data Types
-
-## **5. Python Type Casting**
-- 5.1. Type Casting là gì?
-- 5.2. Công dụng của Type Casting
-- 5.3. Các hàm ép kiểu cơ bản
-- 5.4. Ép kiểu sang `str`
-- 5.5. Ép kiểu sang `int`
-- 5.6. Ép kiểu sang `float`
-- 5.7. Ép kiểu sang `bool`
-- 5.8. Quy tắc Truthy / Falsy
-- 5.9. Input luôn là string
-- 5.10. Ép list, tuple, set
-- 5.11. Ứng dụng set để loại trùng
-- 5.12. Ví dụ thực tế
-- 5.13. Cheat Sheet Type Casting
-
-## **6. Python Print**
-- 6.1. `print()` là gì?
-- 6.2. Cấu trúc cơ bản
-- 6.3. In biến
-- 6.4. In nhiều giá trị
-- 6.5. Nối chuỗi bằng dấu `+`
-- 6.6. F-string
-- 6.7. Format số thập phân bằng f-string
-- 6.8. Format có tên biến
-- 6.9. Format kiểu cũ với `%`
-- 6.10. `.format()`
-- 6.11. `sep`
-- 6.12. `end`
-- 6.13. In nhiều dòng
-- 6.14. Ví dụ thực tế
-- 6.15. Cheat Sheet Print
-
-## **7. Python Strings**
-- 7.1. String là gì?
-- 7.2. Công dụng của string
-- 7.3. Tạo string
-- 7.4. String nhiều dòng
-- 7.5. Indexing trong string
-- 7.6. Slicing
-- 7.7. `len()`
-- 7.8. String là immutable
-- 7.9. Nối string
-- 7.10. Lặp string
-- 7.11. Kiểm tra substring
-- 7.12. Chuyển hoa / thường
-- 7.13. Xóa khoảng trắng
-- 7.14. `split()`
-- 7.15. `split()` theo ký tự
-- 7.16. `rsplit()`
-- 7.17. `join()`
-- 7.18. `replace()`
-- 7.19. `find()`
-- 7.20. `count()`
-- 7.21. Kiểm tra string
-- 7.22. Escape characters
-- 7.23. Raw string
-- 7.24. F-string với string
-- 7.25. Ví dụ xử lý file name
-- 7.26. Ví dụ xử lý ROS2 topic
-- 7.27. Ví dụ tổng hợp string
-- 7.28. Cheat Sheet String
+| Phase | Nội dung | Chủ đề chính |
+|---:|---|---|
+| Phase 1 | [Phase 1 — Setup & Basic Syntax](#phase-1-setup-basic-syntax) | VS Code • Debugger • Comments |
+| Phase 2 | [Phase 2 — Variables & Basic Data](#phase-2-variables-basic-data) | Variables • Data Types • Type Casting • Print • String |
+| Phase 3 | [Phase 3 — Collections](#phase-3-collections) | Lists • Tuples • Sets • Dictionaries |
+| Phase 9 | [Phase 9 — Python Libraries](#phase-9-python-libraries) | NumPy • Matplotlib |
+| Phase 10 | [Phase 10 — Deep Learning Foundations With Python](#phase-10-deep-learning-foundations-with-python) | Deep Learning • Neural Network • Loss • Gradient Descent • Training Basics |
+| Phase 11 | [Phase 11 — Pytorch Fundamentals](#phase-11-pytorch-fundamentals) | PyTorch • Tensor • Autograd • nn.Module • Dataset • DataLoader • Training Loop |
+| Phase 12 | [Phase 12 — Deep Learning For Computer Vision](#phase-12-deep-learning-for-computer-vision) | CNN • Image Classification • Detection • Segmentation • Depth • Pose • Perception |
+| Phase 13 | [Phase 13 — Advanced Computer Vision For Robotics](#phase-13-advanced-computer-vision-for-robotics) | Geometry • Features • Tracking • Motion • Calibration • Multi-View • Robotics Perception |
+| Phase 14 | [Phase 14 — Stereo Vision And Depth Perception](#phase-14-stereo-vision-and-depth-perception) | Stereo Camera • Rectification • Disparity • Triangulation • Depth Map • 3D Reconstruction |
+| Phase 15 | [Phase 15 — Ai Perception For Humanoid Robot](#phase-15-ai-perception-for-humanoid-robot) | Robot-Centric Perception • Object Perception • Human Perception • 3D Scene Understanding • ROS2 Integration |
+| Phase 16 | [Phase 16 — 3D Vision For Robotics](#phase-16-3d-vision-for-robotics) | 3D Geometry • Point Clouds • RGB-D • Surface Understanding • Registration • 3D Perception for Robot Action |
+| Phase 17 | [Phase 17 — Visual Slam And Visual Odometry](#phase-17-visual-slam-and-visual-odometry) | Camera Motion • Localization • Mapping • Feature Tracking • Pose Graph Thinking • Robot Navigation Perception |
+| Phase 18 | [Phase 18 — Perception For Manipulation And Grasping](#phase-18-perception-for-manipulation-and-grasping) | Object Localization • Grasp-Oriented Perception • Tabletop Understanding • Wrist-Camera Vision • Manipulation-Centric 3D Perception |
+| Phase 19 | [Phase 19 — Multi-Sensor Fusion For Humanoid Robot](#phase-19-multi-sensor-fusion-for-humanoid-robot) | RGB • Stereo • RGB-D • IMU • Wrist Camera • Force/Tactile • Robot State Fusion for Robust Perception |
+| Phase 20 | [Phase 20 — Embodied Ai / Vision-Language-Action For Robot](#phase-20-embodied-ai-vision-language-action-for-robot) | Perception • Language • Reasoning • Action • Task Execution • Humanoid Embodied Intelligence |
 
 ---
 
-# 🟨 Phase 3 — Collections
+## 🧱 Learning Style
 
-## **8. Python Lists**
-- 8.1. List là gì?
-- 8.2. Tạo list
-- 8.3. Index trong list
-- 8.4. Slicing list
-- 8.5. Sửa phần tử trong list
-- 8.6. Thêm phần tử
-- 8.7. Xóa phần tử
-- 8.8. Tìm kiếm trong list
-- 8.9. Sắp xếp list
-- 8.10. Duyệt list bằng vòng lặp
-- 8.11. List comprehension
-- 8.12. Copy list
-- 8.13. List 2 chiều
-- 8.14. Cheat Sheet List
-
-## **9. Python Tuples**
-- 9.1. Tuple là gì?
-- 9.2. Tạo tuple
-- 9.3. Truy cập tuple
-- 9.4. Tuple không sửa được
-- 9.5. Unpacking tuple
-- 9.6. Tuple dùng để làm gì?
-- 9.7. Hàm hỗ trợ tuple
-- 9.8. Tuple trong return function
-- 9.9. Cheat Sheet Tuple
-
-## **10. Python Sets**
-- 10.1. Set là gì?
-- 10.2. Tạo set
-- 10.3. Thêm phần tử
-- 10.4. Thêm nhiều phần tử
-- 10.5. Xóa phần tử
-- 10.6. Kiểm tra phần tử trong set
-- 10.7. Toán tập hợp
-- 10.8. Set dùng để làm gì?
-- 10.9. Cheat Sheet Set
-
-## **11. Python Dictionaries**
-- 11.1. Dictionary là gì?
-- 11.2. Dictionary dùng để làm gì?
-- 11.3. Tạo dictionary
-- 11.4. Truy cập value bằng key
-- 11.5. Dùng `get()`
-- 11.6. Thêm hoặc sửa dữ liệu
-- 11.7. Xóa dữ liệu
-- 11.8. Lấy keys, values, items
-- 11.9. Duyệt dictionary
-- 11.10. Dictionary lồng nhau
-- 11.11. Dictionary comprehension
-- 11.12. Đếm tần suất bằng dictionary
-- 11.13. Ví dụ robotics config
-- 11.14. Cheat Sheet Dictionary
+```text
+Concept  →  Syntax  →  Example  →  Common Mistake  →  Cheat Sheet
+```
 
 ---
 
-# 🟧 Phase 4 — Control Flow
+## 🗂️ Repository Structure Suggestion
 
-## **12. Python If Else**
-- 12.1. If Else là gì?
-- 12.2. Cấu trúc cơ bản
-- 12.3. `if`
-- 12.4. `if else`
-- 12.5. `if elif else`
-- 12.6. Toán tử so sánh
-- 12.7. Toán tử logic
-- 12.8. `and`
-- 12.9. `or`
-- 12.10. `not`
-- 12.11. If lồng nhau
-- 12.12. Toán tử điều kiện một dòng
-- 12.13. Ví dụ thực tế
-- 12.14. Cheat Sheet If Else
-
-## **13. Python Switch / Match Case**
-- 13.1. Match Case là gì?
-- 13.2. Vì sao Python không có `switch` kiểu C/C++?
-- 13.3. Cú pháp `match ... case`
-- 13.4. Match với số
-- 13.5. Match với string
-- 13.6. Dùng `_` làm default case
-- 13.7. Khi nào nên dùng `match`
-- 13.8. Khi nào vẫn nên dùng `if else`
-- 13.9. Cheat Sheet Match Case
-
-## **14. Python Loops**
-- 14.1. Loop là gì?
-- 14.2. `for` loop
-- 14.3. `range()`
-- 14.4. `while` loop
-- 14.5. `break`
-- 14.6. `continue`
-- 14.7. `pass`
-- 14.8. Vòng lặp lồng nhau
-- 14.9. Duyệt string
-- 14.10. Duyệt list
-- 14.11. `enumerate()`
-- 14.12. `zip()`
-- 14.13. Ví dụ thực tế
-- 14.14. Cheat Sheet Loops
+```text
+python-knowledge-roadmap/
+│
+├─ README.md
+├─ phase_01_setup_basic_syntax/
+├─ phase_02_variables_basic_data/
+├─ phase_03_collections/
+├─ phase_04_control_flow/
+├─ phase_05_functions_file_handling/
+├─ phase_06_error_handling_oop/
+├─ phase_07_project_structure/
+├─ phase_08_data_structures/
+├─ phase_09_python_libraries/
+├─ projects/
+│  ├─ mini_robot_config_reader/
+│  ├─ sensor_data_analyzer/
+│  └─ graph_path_planner/
+└─ requirements.txt
+```
 
 ---
 
-# 🟥 Phase 5 — Functions & File Handling
+## ✅ Suggested Study Order
 
-## **15. Python Functions**
-- 15.1. Function là gì?
-- 15.2. Vì sao cần function?
-- 15.3. Cấu trúc function
-- 15.4. Function không có tham số
-- 15.5. Function có tham số
-- 15.6. `return`
-- 15.7. Nhiều tham số
-- 15.8. Giá trị mặc định
-- 15.9. Keyword arguments
-- 15.10. `*args`
-- 15.11. `**kwargs`
-- 15.12. Hàm trả về nhiều giá trị
-- 15.13. Docstring cho function
-- 15.14. Ví dụ thực tế
-- 15.15. Cheat Sheet Functions
-
-## **16. Python Scope**
-- 16.1. Scope là gì?
-- 16.2. Local variable
-- 16.3. Global variable
-- 16.4. Từ khóa `global`
-- 16.5. Từ khóa `nonlocal`
-- 16.6. LEGB Rule
-- 16.7. Ví dụ minh họa scope
-- 16.8. Lỗi thường gặp với scope
-- 16.9. Cheat Sheet Scope
-
-## **17. Python File Handling**
-- 17.1. File Handling là gì?
-- 17.2. Các mode mở file
-- 17.3. `open()`
-- 17.4. Đọc file với `read()`
-- 17.5. Đọc file với `readline()`
-- 17.6. Đọc file với `readlines()`
-- 17.7. Ghi file với `write()`
-- 17.8. Ghi nhiều dòng với `writelines()`
-- 17.9. `with open(...)`
-- 17.10. File path
-- 17.11. Ví dụ đọc file config
-- 17.12. Cheat Sheet File Handling
+```text
+Phase 1 → VS Code / Debugger / Comments
+Phase 2 → Variables / Data Types / Print / String
+Phase 3 → List / Tuple / Set / Dictionary
+Phase 4 → If Else / Match Case / Loops
+Phase 5 → Functions / Scope / File Handling
+Phase 6 → Exceptions / OOP / Inheritance / Methods
+Phase 7 → Virtual Environment / Modules / Main Guard / Requirements
+Phase 8 → Linked List / Stack / Queue / BST / Graph
+Phase 9 → NumPy / Matplotlib
+```
 
 ---
 
-# 🟪 Phase 6 — Error Handling & OOP
+## 🐍 Python Style Notes
 
-## **18. Python Exceptions**
-- 18.1. Exception là gì?
-- 18.2. Vì sao cần xử lý exception?
-- 18.3. `try - except`
-- 18.4. `else`
-- 18.5. `finally`
-- 18.6. Bắt nhiều loại exception
-- 18.7. `raise`
-- 18.8. Tự tạo exception đơn giản
-- 18.9. Ví dụ thực tế
-- 18.10. Cheat Sheet Exceptions
-
-## **19. Python Object-Oriented Programming (OOP)**
-- 19.1. OOP là gì?
-- 19.2. Class là gì?
-- 19.3. Object là gì?
-- 19.4. Tạo class
-- 19.5. `__init__`
-- 19.6. Attributes
-- 19.7. Methods
-- 19.8. `self`
-- 19.9. Tạo object
-- 19.10. Ví dụ lớp Robot
-- 19.11. Encapsulation cơ bản
-- 19.12. Cheat Sheet OOP
-
-## **20. Python Inheritance**
-- 20.1. Inheritance là gì?
-- 20.2. Parent class và child class
-- 20.3. Kế thừa constructor
-- 20.4. `super()`
-- 20.5. Method overriding
-- 20.6. Vì sao inheritance quan trọng?
-- 20.7. Ví dụ thực tế với Robot / Sensor
-- 20.8. Cheat Sheet Inheritance
-
-## **21. Python Class Methods / Static Methods**
-- 21.1. Instance method
-- 21.2. Class method
-- 21.3. `@classmethod`
-- 21.4. Static method
-- 21.5. `@staticmethod`
-- 21.6. Khi nào dùng từng loại method?
-- 21.7. Ví dụ thực tế
-- 21.8. Cheat Sheet Methods
-
----
-
-# 🟫 Phase 7 — Project Structure
-
-## **22. Python Virtual Environments**
-- 22.1. Virtual Environment là gì?
-- 22.2. Công dụng
-- 22.3. Tạo virtual environment
-- 22.4. Kích hoạt virtual environment
-- 22.5. Cài thư viện trong virtual environment
-- 22.6. Thoát virtual environment
-- 22.7. Không nên upload `.venv` lên GitHub
-- 22.8. Quy trình chuẩn khi bắt đầu project Python
-- 22.9. Cheat Sheet Virtual Environment
-
-## **23. Python Modules**
-- 23.1. Module là gì?
-- 23.2. Công dụng của module
-- 23.3. Ví dụ project có module
-- 23.4. Tạo module
-- 23.5. Import trực tiếp function
-- 23.6. Import nhiều function
-- 23.7. Import với alias
-- 23.8. Import toàn bộ
-- 23.9. Built-in modules
-- 23.10. Module search path
-- 23.11. Ví dụ module cho robotics
-- 23.12. Cheat Sheet Modules
-
-## **24. Python `if __name__ == "__main__"`**
-- 24.1. `__name__` là gì?
-- 24.2. Cấu trúc chuẩn
-- 24.3. Công dụng
-- 24.4. Ví dụ không dùng main guard
-- 24.5. Ví dụ dùng main guard
-- 24.6. File chạy trực tiếp
-- 24.7. File được import
-- 24.8. Cấu trúc project chuẩn
-- 24.9. Cheat Sheet Main Guard
-
-## **25. Python requirements.txt**
-- 25.1. `requirements.txt` là gì?
-- 25.2. Công dụng
-- 25.3. Tạo requirements.txt
-- 25.4. Cài thư viện từ requirements.txt
-- 25.5. Ví dụ requirements.txt
-- 25.6. Nên ghi version hay không?
-- 25.7. Quy trình dùng requirements.txt chuẩn
-- 25.8. Ví dụ README hướng dẫn cài project
-- 25.9. Lưu ý với Windows
-- 25.10. Cheat Sheet requirements.txt
-
----
-
-# ⬛ Phase 8 — Data Structures
-
-## **26. Python Linked List**
-- 26.1. Linked List là gì?
-- 26.2. Node là gì?
-- 26.3. Linked List cơ bản
-- 26.4. Thêm node vào cuối
-- 26.5. In linked list
-- 26.6. Code đầy đủ Linked List
-- 26.7. Tìm kiếm trong Linked List
-- 26.8. Xóa node theo giá trị
-- 26.9. Khi nào dùng Linked List?
-- 26.10. Cheat Sheet Linked List
-
-## **27. Python Stack**
-- 27.1. Stack là gì?
-- 27.2. Stack dùng để làm gì?
-- 27.3. Cài stack bằng list
-- 27.4. Các thao tác chính
-- 27.5. Code Stack class
-- 27.6. Ví dụ kiểm tra dấu ngoặc
-- 27.7. Cheat Sheet Stack
-
-## **28. Python Queue**
-- 28.1. Queue là gì?
-- 28.2. Queue dùng để làm gì?
-- 28.3. Không nên dùng list `pop(0)` nhiều
-- 28.4. Dùng `collections.deque`
-- 28.5. Code Queue class
-- 28.6. Ví dụ Robot Command Queue
-- 28.7. Cheat Sheet Queue
-
-## **29. Python Binary Search Tree**
-- 29.1. Binary Search Tree là gì?
-- 29.2. BST dùng để làm gì?
-- 29.3. Node trong BST
-- 29.4. Insert vào BST
-- 29.5. Search trong BST
-- 29.6. Inorder Traversal
-- 29.7. Code đầy đủ BST
-- 29.8. Traversal trong Tree
-- 29.9. Cheat Sheet BST
-
-## **30. Python Graph**
-- 30.1. Graph là gì?
-- 30.2. Graph dùng để làm gì?
-- 30.3. Directed và Undirected Graph
-- 30.4. Weighted Graph
-- 30.5. Biểu diễn graph bằng dictionary
-- 30.6. BFS là gì?
-- 30.7. BFS code
-- 30.8. DFS là gì?
-- 30.9. DFS code bằng recursion
-- 30.10. Code đầy đủ BFS và DFS
-- 30.11. Weighted graph bằng dictionary
-- 30.12. Graph trong robotics
-- 30.13. Cheat Sheet Graph
-
----
-
-# 🟦 Phase 9 — Python Libraries
-
-## **31. Python NumPy**
-- 31.1. NumPy là gì?
-- 31.2. Cài NumPy
-- 31.3. Tạo NumPy array
-- 31.4. List Python vs NumPy Array
-- 31.5. Array 1D, 2D, 3D
-- 31.6. `shape`, `ndim`, `size`, `dtype`
-- 31.7. Tạo array nhanh
-- 31.8. Indexing NumPy
-- 31.9. Slicing NumPy
-- 31.10. Phép toán với array
-- 31.11. Hàm toán học
-- 31.12. `reshape`
-- 31.13. `flatten`
-- 31.14. Matrix multiplication
-- 31.15. Vector trong robotics
-- 31.16. Rotation matrix 2D
-- 31.17. Camera intrinsic matrix
-- 31.18. NumPy Cheat Sheet
-
-## **32. Python Matplotlib**
-- 32.1. Matplotlib là gì?
-- 32.2. Cài Matplotlib
-- 32.3. Vẽ line chart cơ bản
-- 32.4. Thêm title, xlabel, ylabel
-- 32.5. Vẽ nhiều đường
-- 32.6. Scatter plot
-- 32.7. Bar chart
-- 32.8. Histogram
-- 32.9. Vẽ function toán học với NumPy
-- 32.10. Vẽ sin/cos
-- 32.11. Lưu hình
-- 32.12. Matplotlib trong robotics
-- 32.13. Vẽ trajectory 2D
-- 32.14. Matplotlib Cheat Sheet
-
----
-
-<br>
-
-<div align="center">
-
-## 📌 Suggested Reading Order
-**Phase 1 → Phase 2 → Phase 3 → Phase 4 → Phase 5 → Phase 6 → Phase 7 → Phase 8 → Phase 9**
-
-</div>
-
-<div align="center">
-
-# 🐍 Python Tutorial Repository
-## Python Basics for Robotics • AI • Computer Science
-
-</div>
-
----
-
-# Table of Contents
-
-## Phase 1 - Setup & Basic Syntax
-1. [Python Using VS Code](#1-python-using-vs-code)
-2. [Python Debugger in VS Code](#2-python-debugger-in-vs-code)
-3. [Python Comments](#3-python-comments)
+```text
+Use snake_case for variables and functions.
+Use PascalCase for classes.
+Use clear names instead of random short names.
+Use functions to split logic.
+Use modules when the file becomes too long.
+Use virtual environments for real projects.
+```
 
 ---
 
@@ -25154,4 +24734,12 @@ Nếu tiếp tục đẩy mạnh theo hướng humanoid robot AI perception / em
 
 </div>
 
+---
 
+<div align="center">
+
+# 🌟 End of Python Knowledge Roadmap
+
+### Write clean code • Build real projects • Keep improving
+
+</div>

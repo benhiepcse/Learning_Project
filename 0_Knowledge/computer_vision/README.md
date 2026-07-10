@@ -1,83 +1,118 @@
-# Computer Vision Tutorial Repository
-## Python • C++ • OpenCV • Robotics Vision
+<br>
 
-# Table of Contents
+<div align="center">
 
-## Phase 1 — Computer Vision Foundations
-1. Image Fundamentals
-2. Pixel, Image Matrix & Channels
-3. Image Coordinate System
-4. OpenCV Setup for Python & C++
-5. Read / Show / Save Image
-6. Basic Image Operations
+# ✨ Computer Vision Knowledge Roadmap
+## Clean • Aesthetic • Robotics-Oriented README
 
-## Phase 2 — Image Processing
-7. Color Spaces
-8. Grayscale / RGB / BGR / HSV
-9. Resize / Crop / Rotate / Flip
-10. Brightness & Contrast
-11. Blur / Filter / Denoise
-12. Thresholding
-13. Morphology
-14. Edge Detection
-15. Contours
+<img src="https://img.shields.io/badge/Computer%20Vision-OpenCV-blue?style=for-the-badge&logo=opencv" />
+<img src="https://img.shields.io/badge/Language-Python%20%7C%20C++-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Focus-Robotics%20Vision-success?style=for-the-badge" />
 
-## Phase 3 — Feature Detection & Matching
-16. Feature là gì?
-17. Corner Detection
-18. SIFT / ORB
-19. Descriptor
-20. Feature Matching
-21. Homography
-22. Image Registration
+</div>
 
-## Phase 4 — Camera Geometry
-23. Pinhole Camera Model
-24. Intrinsic Matrix
-25. Extrinsic Matrix
-26. Projection 3D → 2D
-27. Back Projection 2D → 3D
-28. Camera Calibration
-29. Undistortion
+---
 
-## Phase 5 — Stereo Vision & Depth
-30. Stereo Camera
-31. Disparity
-32. Block Matching
-33. SGM
-34. Depth Estimation
-35. Depth Map
-36. Point Cloud
+## 📌 Overview
 
-## Phase 6 — Motion & Video Vision
-37. Video Processing
-38. Optical Flow
-39. Object Tracking
-40. Motion Estimation
-41. Background Subtraction
+README này được thiết kế lại theo hướng **thẩm mỹ hơn, gọn hơn, dễ đọc hơn** nhưng vẫn giữ đúng nội dung kiến thức Computer Vision ban đầu.
 
-## Phase 7 — Recognition & AI Vision
-42. Object Detection
-43. Image Segmentation
-44. Pose Estimation
-45. OCR
-46. AI Vision Models
+Mục tiêu:
 
-## Phase 8 — Robotics Vision
-47. Robot Perception Pipeline
-48. Camera to Robot Coordinate
-49. Object Following
-50. Pick and Place Vision
-51. Table Cleaning Robot
-52. Humanoid Robot Perception
+- Học Computer Vision từ nền tảng ảnh, pixel, channel đến stereo, depth, robot perception
+- Có ví dụ song song **Python + C++ + OpenCV**
+- Phù hợp định hướng **Robotics Vision • AI Perception • Humanoid Robot**
+- Có cấu trúc phase rõ ràng để học theo từng đợt
 
-## Phase 9 — SLAM & Advanced Vision
-53. Visual Odometry
-54. Visual SLAM
-55. Visual Localization
-56. Scene Understanding
-57. Vision-Language Models
-58. Frontier Computer Vision
+---
+
+## 🧭 Quick Navigation
+
+| Phase | Nội dung | Chủ đề chính |
+|---:|---|---|
+| Phase 1 | [Phase 1 — Computer Vision Foundations](#phase-1-computer-vision-foundations) | Python • C++ • OpenCV • Image Basics • Coordinate System • Basic Image Operations |
+| Phase 2 | [Phase 2 — Image Processing](#phase-2-image-processing) | Python • C++ • OpenCV • Color Spaces • Geometric Transformations • Filtering • Thresholding • Morphology |
+| Phase 3 | [Phase 3 — Feature Detection & Matching](#phase-3-feature-detection-matching) | Python • C++ • OpenCV • Features • Corners • SIFT / ORB • Descriptors • Matching • Homography • Image Registration |
+| Phase 4 | [Phase 4 — Camera Geometry](#phase-4-camera-geometry) | Python • C++ • OpenCV • Pinhole Camera • Intrinsic Matrix • Extrinsic Matrix • Projection • Back-Projection • Calibration |
+| Phase 5 | [Phase 5 — Stereo Vision & Depth](#phase-5-stereo-vision-depth) | Python • C++ • OpenCV • Stereo Camera • Disparity • Block Matching • SGM • Depth Estimation • Depth Map • Point Cloud |
+| Phase 6 | [Phase 6 — Motion & Video Vision](#phase-6-motion-video-vision) | Python • C++ • OpenCV • Video I/O • Frame Processing • Optical Flow • Motion Detection • Background Subtraction • Tracking |
+| Phase 7 | [Phase 7 — Segmentation & Contours](#phase-7-segmentation-contours) | Python • C++ • OpenCV • Contours • Shape Analysis • Classical Segmentation • Watershed • GrabCut • Connected Components |
+| Phase 8 | [Phase 8 — Object Detection & Classical Recognition](#phase-8-object-detection-classical-recognition) | Python • C++ • OpenCV • Template Matching • Haar Cascade • HOG • Sliding Window • NMS • Classical Recognition |
+| Phase 9 | [Phase 9 — Deep Learning For Computer Vision](#phase-9-deep-learning-for-computer-vision) | Python • C++ • OpenCV DNN • PyTorch/TensorFlow Concepts • CNN • Transfer Learning • Detection • Segmentation • Embeddings |
+| Phase 10 | [Phase 10 — 3D Vision & Pose Estimation](#phase-10-3d-vision-pose-estimation) | Python • C++ • OpenCV • PnP • Epipolar Geometry • Stereo 3D • Point Cloud • Pose Estimation • Camera-World Geometry |
+| Phase 11 | [Phase 11 — Visual Odometry, Slam & Robot Perception Integration](#phase-11-visual-odometry-slam-robot-perception-integration) | Python • C++ • OpenCV • Feature Tracking • Motion Estimation • Mapping • SLAM Concepts • ROS2 Perception Pipelines |
+| Phase 12 | [Phase 12 — Advanced Robot Vision Systems & Humanoid Perception Pipeline](#phase-12-advanced-robot-vision-systems-humanoid-perception-pipeline) | Python • C++ • OpenCV • ROS2 • Real-Time Vision • Multi-Sensor Perception • Humanoid Robot Vision |
+| Phase 13 | [Phase 13 — Human Perception & Hri Vision](#phase-13-human-perception-hri-vision) | Python • C++ • OpenCV • Deep Vision • Human Detection • Pose Estimation • Face / Gesture / Tracking • Humanoid HRI Perception |
+| Phase 14 | [Phase 14 — Advanced 3D Manipulation Vision](#phase-14-advanced-3d-manipulation-vision) | Python • C++ • OpenCV • RGB-D • Stereo • Point Cloud • 6D Pose • Grasp Vision • Manipulation Perception |
+| Phase 15 | [Phase 15 — Embodied / Humanoid Scene Understanding & Vision-Language Perception](#phase-15-embodied-humanoid-scene-understanding-vision-language-perception) | Python • C++ • Computer Vision • Robotics Perception • Scene Understanding • Semantic Mapping • Affordance • Vision-Language • Embodied AI |
+
+---
+
+## 🧱 Learning Style
+
+```text
+Concept  →  Python Structure  →  C++ Structure  →  OpenCV Example  →  Robotics Application  →  Cheat Sheet
+```
+
+---
+
+## 🗂️ Repository Structure Suggestion
+
+```text
+computer-vision-knowledge-roadmap/
+│
+├─ README.md
+├─ images/
+├─ outputs/
+├─ phase_01_cv_foundations/
+├─ phase_02_image_processing/
+├─ phase_03_feature_detection_matching/
+├─ phase_04_camera_geometry/
+├─ phase_05_stereo_vision_depth/
+├─ phase_06_motion_video_vision/
+├─ phase_07_recognition_ai_vision/
+├─ phase_08_robotics_vision/
+├─ phase_09_slam_advanced_vision/
+│
+├─ python/
+│  ├─ requirements.txt
+│  └─ src/
+│
+└─ cpp/
+   ├─ CMakeLists.txt
+   └─ src/
+```
+
+---
+
+## ✅ Suggested Study Order
+
+```text
+Phase 1 → Image / Pixel / Channel / Coordinate / OpenCV setup
+Phase 2 → Color / Transform / Filter / Threshold / Morphology / Edge / Contour
+Phase 3 → Feature / Corner / SIFT / ORB / Matching / Homography
+Phase 4 → Camera Geometry / Intrinsic / Extrinsic / Projection / Calibration
+Phase 5 → Stereo / Disparity / Depth / Point Cloud
+Phase 6 → Video / Optical Flow / Tracking / Motion
+Phase 7 → Detection / Segmentation / Pose / OCR / AI Vision
+Phase 8 → Robot Perception / Camera-to-Robot / Pick / Clean / Humanoid
+Phase 9 → Visual Odometry / SLAM / Localization / VLM / Frontier Vision
+```
+
+---
+
+## 🤖 Robotics Vision Notes
+
+```text
+Python  → prototype nhanh, visualize, thử thuật toán
+C++     → OpenCV runtime, ROS2 node, integration robot
+OpenCV  → image processing, geometry, stereo, tracking
+CV Core → pixel → feature → geometry → depth → perception pipeline
+```
+
+---
+
+<br>
 
 <br>
 
@@ -17486,4 +17521,12 @@ Computer Vision cho humanoid robot không kết thúc ở detection
 
 </div>
 
+---
 
+<div align="center">
+
+# 🌟 End of Computer Vision Knowledge Roadmap
+
+### See the world • Process the image • Build robot perception
+
+</div>

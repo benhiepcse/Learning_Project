@@ -2,650 +2,93 @@
 
 <div align="center">
 
-# 💻 TABLE OF CONTENTS
-## C++ Tutorial Roadmap
+# ✨ C++ Knowledge Roadmap
+## Clean • Aesthetic • Robotics-Oriented README
+
+<img src="https://img.shields.io/badge/Language-C++-blue?style=for-the-badge&logo=cplusplus" />
+<img src="https://img.shields.io/badge/Focus-Robotics%20%26%20AI%20Perception-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Level-Beginner%20to%20Advanced-success?style=for-the-badge" />
 
 </div>
 
 ---
 
-# 🟦 Phase 1 — Setup & Basic Syntax
+## 📌 Overview
 
-## **1. C++ Comments**
-- 1.1. Comment là gì?
-- 1.2. Single-line comment
-- 1.3. Inline comment
-- 1.4. Multi-line comment
-- 1.5. Comment để tạm tắt code
-- 1.6. Comment để giải thích thuật toán
-- 1.7. Comment để ghi TODO / NOTE
-- 1.8. Comment tốt và comment chưa tốt
-- 1.9. Cheat Sheet Comments
+README này được thiết kế lại theo hướng **đẹp hơn, gọn hơn, dễ đọc hơn** nhưng vẫn giữ đúng nội dung kiến thức C++ ban đầu.
 
-## **2. C++ Debugger in VS Code**
-- 2.1. Debugger là gì?
-- 2.2. Vì sao cần debugger?
-- 2.3. Breakpoint là gì?
-- 2.4. Ví dụ debug vòng lặp
-- 2.5. Các nút Debugger quan trọng
-- 2.6. Step Over và Step Into
-- 2.7. Variables Panel
-- 2.8. Call Stack
-- 2.9. Watch
-- 2.10. Debugger khác gì `cout`
-- 2.11. Ví dụ debug function
-- 2.12. Debug pointer
-- 2.13. Cách tư duy khi debug
-- 2.14. Cheat Sheet Debugger
+Mục tiêu:
+
+- Học C++ từ nền tảng đến OOP, STL, DSA, Advanced C++
+- Có ví dụ code rõ ràng, dễ copy vào VS Code
+- Phù hợp định hướng **Robotics • AI Perception • ROS2 C++**
+- Có cấu trúc phase rõ ràng để học theo từng đợt
 
 ---
 
-# 🟩 Phase 2 — Variables & Basic Data
+## 🧭 Quick Navigation
 
-## **3. C++ Variables and Data Types**
-- 3.1. Variable là gì?
-- 3.2. Công dụng của biến
-- 3.3. Cấu trúc khai báo biến
-- 3.4. Khác Python ở điểm nào?
-- 3.5. Quy tắc đặt tên biến
-- 3.6. Quy ước đặt tên
-- 3.7. Các kiểu dữ liệu cơ bản
-- 3.8. Bảng Data Types
-- 3.9. `int`
-- 3.10. `float`
-- 3.11. `double`
-- 3.12. `char`
-- 3.13. `bool`
-- 3.14. `string`
-- 3.15. Khởi tạo biến
-- 3.16. Khai báo nhiều biến
-- 3.17. Giá trị rác
-- 3.18. Ví dụ tổng hợp
-- 3.19. Cheat Sheet Variables
-
-## **4. C++ Type Casting**
-- 4.1. Type Casting là gì?
-- 4.2. Công dụng của Type Casting
-- 4.3. C-style cast
-- 4.4. `static_cast`
-- 4.5. Chia nguyên và chia thực
-- 4.6. Ép `int` sang `double`
-- 4.7. Ép `double` sang `int`
-- 4.8. Ép `char` sang `int`
-- 4.9. Ép `int` sang `char`
-- 4.10. Ép `bool`
-- 4.11. Cheat Sheet Type Casting
-
-## **5. C++ Auto**
-- 5.1. `auto` là gì?
-- 5.2. Công dụng của `auto`
-- 5.3. Ví dụ cơ bản
-- 5.4. Auto với vector
-- 5.5. Auto với iterator
-- 5.6. Lưu ý với `auto`
-- 5.7. Cheat Sheet Auto
-
-## **6. C++ Const**
-- 6.1. `const` là gì?
-- 6.2. Công dụng của `const`
-- 6.3. Ví dụ const cơ bản
-- 6.4. Const với function parameter
-- 6.5. Const với pointer
-  - 6.5.1. Pointer tới const data
-  - 6.5.2. Const pointer
-  - 6.5.3. Const pointer tới const data
-- 6.6. Cheat Sheet Const
-
-## **7. C++ Print and Input**
-- 7.1. `cout` là gì?
-- 7.2. Cấu trúc `cout`
-- 7.3. `endl` là gì?
-- 7.4. Ví dụ `cout`
-- 7.5. `cin` là gì?
-- 7.6. Nhập nhiều biến
-- 7.7. Nhập string một từ
-- 7.8. Nhập cả dòng với `getline`
-- 7.9. Lỗi `cin` trước `getline`
-- 7.10. Format số thập phân
-- 7.11. Ví dụ input/output thực tế
-- 7.12. Cheat Sheet Print/Input
-
-## **8. C++ Strings**
-- 8.1. String là gì?
-- 8.2. Công dụng của string
-- 8.3. Khởi tạo string
-- 8.4. Truy cập ký tự bằng index
-- 8.5. Độ dài string
-- 8.6. Nối string
-- 8.7. Thêm vào cuối string
-- 8.8. `substr`
-- 8.9. `find`
-- 8.10. `replace`
-- 8.11. `erase`
-- 8.12. `insert`
-- 8.13. Duyệt string
-- 8.14. So sánh string
-- 8.15. Chuyển string sang số
-- 8.16. Chuyển số sang string
-- 8.17. Ví dụ xử lý command
-- 8.18. Ví dụ xử lý file name
-- 8.19. Cheat Sheet String
+| Phase | Nội dung | Chủ đề chính |
+|---:|---|---|
+| Phase 1 | [Phase 1 — Setup & Basic Syntax](#phase-1-setup-basic-syntax) | Comments • Debugger in VS Code |
+| Phase 2 | [Phase 2 — Variables & Basic Data](#phase-2-variables-basic-data) | Variables • Data Types • Type Casting • Auto • Const • Print/Input • Strings |
+| Phase 3 | [Phase 3 — Operators & Control Flow](#phase-3-operators-control-flow) | Operators • If Else • Switch • Loops |
+| Phase 4 | [Phase 4 — Functions](#phase-4-functions) | Functions • Lambdas • Recursion |
+| Phase 5 | [Phase 5 — Arrays, Vectors & References](#phase-5-arrays-vectors-references) | Arrays • Vectors • Pass by Reference |
+| Phase 6 | [Phase 6 — Pointers & Memory](#phase-6-pointers-memory) | Addresses • Pointers • Dynamic Memory • nullptr • Dangling Pointer |
+| Phase 8 | [Phase 8 — Header Files & Project Structure](#phase-8-header-files-project-structure) | .hpp/.cpp • #pragma once • static • namespace |
+| Phase 10 | [Phase 10 — Advanced C++](#phase-10-advanced-c) | Exception Handling • Macros • Templates |
+| Phase 11 | [Phase 11 — Ros2 Foundation](#phase-11-ros2-foundation) | Workspace • Package • Node • Topic • Service • Action • Launch |
+| Phase 12 | [Phase 12 — Ros2 C++ For Perception](#phase-12-ros2-c-for-perception) | Camera Topics • cv_bridge • OpenCV Node • Detection Pipeline |
 
 ---
 
-# 🟨 Phase 3 — Operators & Control Flow
+## 🧱 Learning Style
 
-## **9. C++ Operators**
-- 9.1. Operator là gì?
-- 9.2. Các nhóm operator quan trọng trong C++
-- 9.3. Arithmetic Operators
-- 9.4. Chia nguyên vs chia thực
-- 9.5. Modulo `%`
-- 9.6. Assignment Operators
-- 9.7. Comparison Operators
-- 9.8. Logical Operators
-- 9.9. `&&` — Logical AND
-- 9.10. `||` — Logical OR
-- 9.11. `!` — Logical NOT
-- 9.12. Prefix và Postfix
-- 9.13. Prefix Increment `++x`
-- 9.14. Postfix Increment `x++`
-- 9.15. Ví dụ Prefix vs Postfix
-- 9.16. Decrement `--`
-- 9.17. Cheat Sheet Operators
-
-## **10. C++ If Else**
-- 10.1. If Else là gì?
-- 10.2. Cấu trúc `if`
-- 10.3. Cấu trúc `if else`
-- 10.4. Cấu trúc `if else if else`
-- 10.5. Dùng `&&` trong if
-- 10.6. Dùng `||` trong if
-- 10.7. So sánh string trong if
-- 10.8. If lồng nhau
-- 10.9. Lỗi thường gặp với `if`
-  - 10.9.1. Quên `{}`
-  - 10.9.2. Nhầm `=` với `==`
-- 10.10. Ví dụ thực tế: phân loại pin robot
-- 10.11. Cheat Sheet If Else
-
-## **11. C++ Switch**
-- 11.1. Switch là gì?
-- 11.2. Cấu trúc switch
-- 11.3. Ví dụ switch cơ bản
-- 11.4. `break` dùng để làm gì?
-- 11.5. Fallthrough là gì?
-- 11.6. `default`
-- 11.7. Switch với `char`
-- 11.8. Khi nào dùng switch, khi nào dùng if else?
-- 11.9. Ví dụ thực tế: menu robot
-- 11.10. Cheat Sheet Switch
-
-## **12. C++ Loops**
-- 12.1. Loop là gì?
-- 12.2. Vì sao cần loop?
-- 12.3. `for` loop
-- 12.4. Phân tích `for`
-- 12.5. `while` loop
-- 12.6. `do while` loop
-- 12.7. So sánh `for`, `while`, `do while`
-- 12.8. Duyệt vector bằng `for`
-- 12.9. Range-based for loop
-- 12.10. Duyệt string bằng loop
-- 12.11. `break`
-- 12.12. `continue`
-- 12.13. Vòng lặp vô hạn
-- 12.14. Ví dụ thực tế: tính tổng
-- 12.15. Ví dụ thực tế: đếm số chẵn
-- 12.16. Ví dụ thực tế: command loop cho robot
-- 12.17. Nested loop
-- 12.18. Cheat Sheet Loops
+```text
+Concept  →  Syntax  →  Example  →  Common Mistake  →  Cheat Sheet
+```
 
 ---
 
-# 🟧 Phase 4 — Functions
+## 🗂️ Repository Structure Suggestion
 
-## **13. C++ Functions**
-- 13.1. Function là gì?
-- 13.2. Vì sao cần function?
-- 13.3. Cấu trúc function trong C++
-- 13.4. Function gồm những phần nào?
-- 13.5. Function không có tham số
-- 13.6. Function có tham số
-- 13.7. Function có giá trị trả về
-- 13.8. `return` là gì?
-- 13.9. `void` function
-- 13.10. Ví dụ: tính trung bình
-- 13.11. Function declaration và definition
-- 13.12. Ví dụ declaration trước, definition sau
-- 13.13. Function call là gì?
-- 13.14. Parameter vs Argument
-- 13.15. Local Variable
-- 13.16. Ví dụ function kiểm tra số chẵn
-- 13.17. Function với nhiều bước xử lý
-- 13.18. Function trong robotics
-- 13.19. Overloading là gì?
-- 13.20. Ví dụ function overloading
-- 13.21. Default Parameters
-- 13.22. Pass by Value
-- 13.23. Pass by Reference
-- 13.24. Pass by Const Reference
-- 13.25. Ví dụ function với vector
-- 13.26. Ví dụ function xử lý robot
-- 13.27. Hàm trả về string
-- 13.28. Function trả về bool
-- 13.29. Function có thể gọi function khác
-- 13.30. Cách chia function tốt
-- 13.31. Lỗi thường gặp với function
-- 13.32. Cheat Sheet Functions
-
-## **14. C++ Lambdas**
-- 14.1. Lambda là gì?
-- 14.2. Vì sao cần lambda?
-- 14.3. Cấu trúc lambda
-- 14.4. Lambda đơn giản nhất
-- 14.5. Lambda có tham số
-- 14.6. Capture là gì?
-- 14.7. Capture by Value `[x]`
-- 14.8. Capture by Reference `[&x]`
-- 14.9. `[=]` và `[&]`
-- 14.10. Lambda với `sort`
-- 14.11. Sort giảm dần bằng lambda
-- 14.12. Lambda với `for_each`
-- 14.13. Lambda trả về giá trị
-- 14.14. Generic lambda với `auto`
-- 14.15. Lambda trong robotics / STL
-- 14.16. Cheat Sheet Lambdas
-
-## **15. C++ Recursion**
-- 15.1. Recursion là gì?
-- 15.2. Cấu trúc recursion
-- 15.3. Base case là gì?
-- 15.4. Recursive case là gì?
-- 15.5. Ví dụ countdown
-- 15.6. Ví dụ factorial
-- 15.7. Ví dụ Fibonacci
-- 15.8. Recursion call stack
-- 15.9. Ưu và nhược điểm của recursion
-- 15.10. Recursion vs loop
-- 15.11. Khi nào nên dùng recursion?
-- 15.12. Recursion trong tree / graph
-- 15.13. Lỗi stack overflow
-- 15.14. Cheat Sheet Recursion
+```text
+cpp-knowledge-roadmap/
+│
+├─ README.md
+├─ phase_01_basic_syntax/
+├─ phase_02_variables_data/
+├─ phase_03_control_flow/
+├─ phase_04_functions/
+├─ phase_05_arrays_vectors_memory/
+├─ phase_06_oop/
+├─ phase_07_data_structures_1/
+├─ phase_08_stl_graph/
+├─ phase_09_advanced_cpp/
+├─ phase_10_program_organization/
+├─ phase_11_cmake_opencv/
+└─ phase_12_ros2_perception_cpp/
+```
 
 ---
 
-# 🟥 Phase 5 — Arrays, Vectors & Memory Foundations
+## ✅ Suggested Study Order
 
-## **16. C++ Arrays**
-- 16.1. Array là gì?
-- 16.2. Vì sao cần array?
-- 16.3. Cấu trúc khai báo array
-- 16.4. Khởi tạo array
-- 16.5. Truy cập phần tử bằng index
-- 16.6. Duyệt array bằng loop
-- 16.7. Sửa phần tử trong array
-- 16.8. Kích thước mảng
-- 16.9. Mảng 2 chiều
-- 16.10. Truyền array vào function
-- 16.11. Ưu nhược điểm của array
-- 16.12. Ví dụ thực tế
-- 16.13. Cheat Sheet Arrays
-
-## **17. C++ Vectors**
-- 17.1. Vector là gì?
-- 17.2. Vì sao vector quan trọng hơn array trong C++ hiện đại?
-- 17.3. Khởi tạo vector
-- 17.4. Truy cập phần tử
-- 17.5. `push_back`
-- 17.6. `pop_back`
-- 17.7. `size`
-- 17.8. `empty`
-- 17.9. Duyệt vector
-- 17.10. Vector of vector
-- 17.11. `insert`
-- 17.12. `erase`
-- 17.13. `clear`
-- 17.14. `front` / `back`
-- 17.15. Vector và bộ nhớ động
-- 17.16. Khi nào dùng vector?
-- 17.17. Ví dụ robotics / sensor data
-- 17.18. Cheat Sheet Vectors
-
-## **18. C++ Pass By Reference**
-- 18.1. Reference là gì?
-- 18.2. Pass by value vs pass by reference
-- 18.3. Cấu trúc tham chiếu `&`
-- 18.4. Sửa trực tiếp biến gốc
-- 18.5. Pass by const reference
-- 18.6. Khi nào nên dùng reference?
-- 18.7. Ví dụ với string
-- 18.8. Ví dụ với vector
-- 18.9. Cheat Sheet Pass By Reference
-
-## **19. C++ Pointers**
-- 19.1. Pointer là gì?
-- 19.2. Địa chỉ bộ nhớ là gì?
-- 19.3. Toán tử `&`
-- 19.4. Toán tử `*`
-- 19.5. Khai báo pointer
-- 19.6. Dereference
-- 19.7. Con trỏ `nullptr`
-- 19.8. Pointer và function
-- 19.9. Pointer với array
-- 19.10. Pointer arithmetic cơ bản
-- 19.11. Rủi ro: dangling pointer, wild pointer
-- 19.12. Pointer trong robotics / C API
-- 19.13. Cheat Sheet Pointers
-
-## **20. C++ Function Pointers**
-- 20.1. Function pointer là gì?
-- 20.2. Cấu trúc function pointer
-- 20.3. Gán function vào pointer
-- 20.4. Gọi function qua pointer
-- 20.5. Function pointer làm callback
-- 20.6. So sánh với lambda
-- 20.7. Ví dụ minh họa
-- 20.8. Cheat Sheet Function Pointers
-
----
-
-# 🟪 Phase 6 — Object-Oriented Programming
-
-## **21. C++ Structs**
-- 21.1. Struct là gì?
-- 21.2. Struct dùng để làm gì?
-- 21.3. Khai báo struct
-- 21.4. Tạo object từ struct
-- 21.5. Truy cập member
-- 21.6. Struct với function
-- 21.7. Struct vs class
-- 21.8. Ví dụ RobotPose / SensorData
-- 21.9. Cheat Sheet Structs
-
-## **22. C++ Classes**
-- 22.1. OOP là gì?
-- 22.2. Class là gì?
-- 22.3. Object là gì?
-- 22.4. Member variables
-- 22.5. Member functions
-- 22.6. Access specifiers
-- 22.7. Constructor
-- 22.8. Destructor
-- 22.9. `this` pointer
-- 22.10. Tạo object
-- 22.11. Ví dụ class Robot
-- 22.12. Cheat Sheet Classes
-
-## **23. C++ HPP / CPP**
-- 23.1. Vì sao phải tách `.hpp` và `.cpp`?
-- 23.2. Header file là gì?
-- 23.3. Source file là gì?
-- 23.4. Include guard / `#pragma once`
-- 23.5. Khai báo class trong `.hpp`
-- 23.6. Triển khai method trong `.cpp`
-- 23.7. Cách include đúng
-- 23.8. Ví dụ project tách file
-- 23.9. Cheat Sheet HPP/CPP
-
-## **24. C++ Pragma Once**
-- 24.1. `#pragma once` là gì?
-- 24.2. Tại sao cần tránh include nhiều lần?
-- 24.3. Ví dụ lỗi include lặp
-- 24.4. Dùng `#pragma once`
-- 24.5. So sánh với include guards
-- 24.6. Cheat Sheet `#pragma once`
-
-## **25. C++ Static**
-- 25.1. `static` là gì?
-- 25.2. Static local variable
-- 25.3. Static member variable
-- 25.4. Static member function
-- 25.5. Khi nào dùng static?
-- 25.6. Ví dụ counter object
-- 25.7. Cheat Sheet Static
-
-## **26. C++ New / Delete**
-- 26.1. Dynamic memory là gì?
-- 26.2. `new`
-- 26.3. `delete`
-- 26.4. `new[]` và `delete[]`
-- 26.5. Memory leak là gì?
-- 26.6. Dangling pointer sau delete
-- 26.7. Ví dụ cấp phát object động
-- 26.8. Khi nào tránh dùng raw `new/delete`
-- 26.9. Cheat Sheet New/Delete
-
-## **27. C++ Smart Pointers**
-- 27.1. Smart Pointer là gì?
-- 27.2. Vì sao cần smart pointer?
-- 27.3. `unique_ptr`
-- 27.4. `shared_ptr`
-- 27.5. `weak_ptr`
-- 27.6. `make_unique`
-- 27.7. `make_shared`
-- 27.8. Ownership model
-- 27.9. Tránh cycle với `weak_ptr`
-- 27.10. Ví dụ object ownership
-- 27.11. Cheat Sheet Smart Pointers
-
-## **28. C++ Copy Constructor**
-- 28.1. Copy constructor là gì?
-- 28.2. Khi nào copy constructor được gọi?
-- 28.3. Shallow copy vs deep copy
-- 28.4. Vấn đề với raw pointer
-- 28.5. Tự viết copy constructor
-- 28.6. Rule of Three / Rule of Five (giới thiệu)
-- 28.7. Ví dụ minh họa
-- 28.8. Cheat Sheet Copy Constructor
-
-## **29. C++ Inheritance**
-- 29.1. Inheritance là gì?
-- 29.2. Base class và derived class
-- 29.3. Cú pháp kế thừa
-- 29.4. `public` inheritance
-- 29.5. Constructor trong inheritance
-- 29.6. Gọi constructor cha
-- 29.7. Method overriding
-- 29.8. Ví dụ Robot → HumanoidRobot
-- 29.9. Lợi ích và lưu ý
-- 29.10. Cheat Sheet Inheritance
-
-## **30. C++ Virtual Functions**
-- 30.1. Polymorphism là gì?
-- 30.2. Virtual function là gì?
-- 30.3. Vì sao cần `virtual`?
-- 30.4. Dynamic dispatch
-- 30.5. `override`
-- 30.6. Pure virtual function
-- 30.7. Abstract class
-- 30.8. Ví dụ class Sensor / Camera / LiDAR
-- 30.9. Virtual destructor
-- 30.10. Cheat Sheet Virtual Functions
-
-## **31. C++ Enums**
-- 31.1. Enum là gì?
-- 31.2. Vì sao dùng enum?
-- 31.3. Enum truyền thống
-- 31.4. `enum class`
-- 31.5. Chuyển enum sang int
-- 31.6. So sánh enum với hằng số
-- 31.7. Ví dụ RobotState
-- 31.8. Cheat Sheet Enums
-
----
-
-# 🟫 Phase 7 — Data Structures I
-
-## **32. C++ Stack**
-- 32.1. Stack là gì?
-- 32.2. Nguyên lý LIFO
-- 32.3. `std::stack`
-- 32.4. `push`
-- 32.5. `pop`
-- 32.6. `top`
-- 32.7. `empty`
-- 32.8. Ứng dụng stack
-- 32.9. Ví dụ kiểm tra ngoặc
-- 32.10. Cheat Sheet Stack
-
-## **33. C++ Queue**
-- 33.1. Queue là gì?
-- 33.2. Nguyên lý FIFO
-- 33.3. `std::queue`
-- 33.4. `push`
-- 33.5. `pop`
-- 33.6. `front`
-- 33.7. `back`
-- 33.8. `empty`
-- 33.9. Ứng dụng queue
-- 33.10. Ví dụ command queue
-- 33.11. Cheat Sheet Queue
-
-## **34. C++ Linked List**
-- 34.1. Linked List là gì?
-- 34.2. Node là gì?
-- 34.3. Singly Linked List
-- 34.4. Tạo node
-- 34.5. Chèn node vào cuối
-- 34.6. Chèn node vào đầu
-- 34.7. Duyệt linked list
-- 34.8. Xóa node
-- 34.9. Tìm kiếm trong linked list
-- 34.10. So sánh với array/vector
-- 34.11. Ví dụ minh họa
-- 34.12. Cheat Sheet Linked List
-
-## **35. C++ Binary Search Tree**
-- 35.1. BST là gì?
-- 35.2. Node trong BST
-- 35.3. Quy tắc BST
-- 35.4. Insert vào BST
-- 35.5. Search trong BST
-- 35.6. Inorder traversal
-- 35.7. Preorder traversal
-- 35.8. Postorder traversal
-- 35.9. Ưu nhược điểm BST
-- 35.10. Ví dụ code BST
-- 35.11. Cheat Sheet BST
-
----
-
-# ⬛ Phase 8 — Data Structures II / STL Containers
-
-## **36. C++ Maps**
-- 36.1. `map` là gì?
-- 36.2. Key-value là gì?
-- 36.3. Tạo `map`
-- 36.4. Thêm phần tử
-- 36.5. Truy cập phần tử
-- 36.6. `find`
-- 36.7. `count`
-- 36.8. Duyệt map
-- 36.9. `unordered_map` (giới thiệu)
-- 36.10. Ứng dụng map
-- 36.11. Ví dụ frequency counter
-- 36.12. Cheat Sheet Maps
-
-## **37. C++ Graph**
-- 37.1. Graph là gì?
-- 37.2. Vertex và Edge
-- 37.3. Directed vs Undirected Graph
-- 37.4. Weighted Graph
-- 37.5. Biểu diễn graph bằng adjacency list
-- 37.6. Biểu diễn graph bằng `map<string, vector<string>>`
-- 37.7. BFS là gì?
-- 37.8. Code BFS
-- 37.9. Mô hình BFS
-- 37.10. DFS là gì?
-- 37.11. Mô hình DFS
-- 37.12. Code DFS bằng recursion
-- 37.13. Weighted Graph bằng vector pair
-- 37.14. Robot Map Example
-- 37.15. Cheat Sheet Graph
-
----
-
-# 🟦 Phase 9 — Advanced C++
-
-## **38. C++ Exception Handling**
-- 38.1. Exception Handling là gì?
-- 38.2. Công dụng
-- 38.3. Cấu trúc cơ bản
-- 38.4. `throw` là gì?
-- 38.5. Ví dụ cơ bản
-- 38.6. `try`
-- 38.7. `catch`
-- 38.8. Bắt nhiều loại lỗi
-- 38.9. `std::exception`
-- 38.10. Tự tạo lỗi logic đơn giản
-- 38.11. Ví dụ với chia cho 0 / file / input
-- 38.12. Cheat Sheet Exception Handling
-
-## **39. C++ Macros / `#define`**
-- 39.1. Macro là gì?
-- 39.2. `#define` dùng để làm gì?
-- 39.3. Macro hằng số
-- 39.4. Macro có tham số
-- 39.5. Rủi ro của macro
-- 39.6. Macro vs `const` / `constexpr`
-- 39.7. Include guard bằng macro
-- 39.8. Ví dụ minh họa
-- 39.9. Cheat Sheet Macros
-
-## **40. C++ Templates**
-- 40.1. Template là gì?
-- 40.2. Vì sao cần template?
-- 40.3. Function template
-- 40.4. Class template
-- 40.5. Template với nhiều kiểu dữ liệu
-- 40.6. Ví dụ hàm `maxValue`
-- 40.7. Ví dụ class `Pair<T1, T2>`
-- 40.8. Generic programming là gì?
-- 40.9. Template trong STL
-- 40.10. Cheat Sheet Templates
-
----
-
-# 🟪 Phase 10 — C++ Program Organization
-
-## **41. C++ Namespace**
-- 41.1. Namespace là gì?
-- 41.2. Vì sao cần namespace?
-- 41.3. `std::`
-- 41.4. `using namespace std`
-- 41.5. Tự tạo namespace
-- 41.6. Truy cập bằng toán tử `::`
-- 41.7. Namespace lồng nhau
-- 41.8. Khi nào nên / không nên dùng `using namespace std`
-- 41.9. Ví dụ tổ chức project
-- 41.10. Cheat Sheet Namespace
-
----
-
-<br>
-
-<div align="center">
-
-## 📌 Suggested Reading Order
-**Phase 1 → Phase 2 → Phase 3 → Phase 4 → Phase 5 → Phase 6 → Phase 7 → Phase 8 → Phase 9 → Phase 10**
-
-</div>
-
-<div align="center">
-
-# 💻 C++ Tutorial Repository
-## C++ Basics for Robotics • AI • Computer Science
-
-</div>
-
----
-
-# Table of Contents
-
-## Phase 1 - Setup & Basic Syntax
-1. [C++ Comments](#1-c-comments)
-2. [C++ Debugger in VS Code](#2-c-debugger-in-vs-code)
+```text
+Phase 1  → Basic Syntax
+Phase 2  → Variables / Data / String
+Phase 3  → Operators / Control Flow
+Phase 4  → Functions / Lambda / Recursion
+Phase 5  → Arrays / Vector / Memory
+Phase 6  → OOP / Smart Pointer / Virtual
+Phase 7  → Stack / Queue / Linked List / BST
+Phase 8  → Map / Graph / BFS / DFS
+Phase 9  → Exception / Macro / Template
+Phase 10 → Namespace / Project Organization
+Phase 11 → CMake / OpenCV C++
+Phase 12 → ROS2 C++ Perception
+```
 
 ---
 
@@ -16743,5 +16186,15 @@ Output:
 
 ## ✅ Phase 12 Completed
 ### ROS2 C++ for Perception: Image Topics • CameraInfo • cv_bridge • OpenCV Node • Detection Pipeline
+
+</div>
+
+---
+
+<div align="center">
+
+# 🌟 End of C++ Knowledge Roadmap
+
+### Keep coding • Keep building • Keep improving
 
 </div>
