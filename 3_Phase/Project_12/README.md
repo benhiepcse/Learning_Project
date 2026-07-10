@@ -145,6 +145,9 @@ object nào gần hơn
 object nào xa hơn
 vùng nào là foreground / background
 ```
+<p align="center">
+  <img src="images/project_12.png" width="800">
+</p>
 
 ---
 

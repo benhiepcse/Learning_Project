@@ -158,6 +158,10 @@ Optional:
 7. nếu mode chính không khả thi, apply fallback
 8. ghi **mission orchestration report**
 
+<p align="center">
+  <img src="images/project_69.png" width="800">
+</p>
+
 ---
 
 # 4. Mục tiêu perception

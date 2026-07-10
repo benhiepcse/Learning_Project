@@ -182,6 +182,10 @@ System này nhận đầu vào là:
    - reachable / not reachable
 6. ghi **target localization inspection report**
 
+<p align="center">
+  <img src="images/project_63.png" width="800">
+</p>
+
 ---
 
 # 5. Mục tiêu perception

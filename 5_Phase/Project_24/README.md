@@ -110,6 +110,10 @@ Bài này cực kỳ sát với các bài toán thực tế của humanoid / hou
 - robot so sánh trước / sau khi dọn bàn
 - robot kiểm tra **scene có khác với map tham chiếu không**
 
+<p align="center">
+  <img src="images/project_24.png" width="800">
+</p>
+
 ---
 
 # 3. Bài 24 nằm ở đâu trong roadmap

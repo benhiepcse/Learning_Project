@@ -185,6 +185,10 @@ Mỗi sample mô tả một cặp hàng ảnh trái/phải, cùng với:
 4. ghép thành **disparity strip**
 5. thống kê chất lượng matching của cả strip
 
+<p align="center">
+  <img src="images/project_45.png" width="800">
+</p>
+
 ---
 
 # 5. Mục tiêu perception

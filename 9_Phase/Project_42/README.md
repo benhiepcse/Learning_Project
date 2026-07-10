@@ -217,6 +217,10 @@ Mỗi observation sẽ chứa:
 4. gom kết quả theo camera / landmark / plane
 5. so sánh chất lượng giữa các camera
 
+<p align="center">
+  <img src="images/project_42.png" width="800">
+</p>
+
 ---
 
 # 5. Mục tiêu perception

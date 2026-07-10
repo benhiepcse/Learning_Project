@@ -149,6 +149,10 @@ Optional:
 5. chọn **best pick candidate**
 6. ghi **pick-and-place candidate plan report**
 
+<p align="center">
+  <img src="images/project_67.png" width="800">
+</p>
+
 ---
 
 # 4. Mục tiêu perception

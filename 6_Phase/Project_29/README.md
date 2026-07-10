@@ -91,6 +91,10 @@ Ví dụ:
 - edge score giữa các frame
 - revisit similarity / feature similarity
 
+<p align="center">
+  <img src="images/project_29.png" width="800">
+</p>
+
 ---
 
 # 3. Bài 29 nằm ở đâu trong roadmap

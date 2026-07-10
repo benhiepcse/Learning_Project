@@ -122,6 +122,10 @@ world → base → torso → head → left_camera
 - transform point
 - ghi report
 
+<p align="center">
+  <img src="images/project_33.png" width="800">
+</p>
+
 ---
 
 # 3. Mục tiêu perception

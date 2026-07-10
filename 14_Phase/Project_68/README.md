@@ -145,6 +145,10 @@ Optional:
 5. build **action-ready cleaning task order**
 6. ghi **table-cleaning schedule report**
 
+<p align="center">
+  <img src="images/project_68.png" width="800">
+</p>
+
 ---
 
 # 4. Mục tiêu perception

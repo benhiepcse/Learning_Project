@@ -84,6 +84,10 @@ Vì vậy:
 ## **Bài 6 = Bài đầu tiên của Đợt 2**
 nhưng **bắt buộc phải kết hợp kiến thức của Đợt 1 + Đợt 2**.
 
+<p align="center">
+  <img src="images/project_6.png" width="800">
+</p>
+
 ---
 
 # 3. Vì sao Bài 6 phải kết hợp Đợt 1 + Đợt 2

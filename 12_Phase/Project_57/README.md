@@ -169,6 +169,10 @@ System này nhận đầu vào là:
 5. gán **safety label**
 6. ghi **locomotion safety report**
 
+<p align="center">
+  <img src="images/project_57.png" width="800">
+</p>
+
 ---
 
 # 5. Mục tiêu perception

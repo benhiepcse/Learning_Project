@@ -141,6 +141,10 @@ pair_01:
 7. vẽ histogram / line profile / summary bằng Matplotlib
 8. ghi report so sánh BM vs SGM
 
+<p align="center">
+  <img src="images/project_51.png" width="800">
+</p>
+
 ---
 
 # 4. Mục tiêu perception

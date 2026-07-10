@@ -157,6 +157,10 @@ Optional:
 5. sinh **next mission state**
 6. ghi **mission lifecycle report**
 
+<p align="center">
+  <img src="images/project_70.png" width="800">
+</p>
+
 ---
 
 # 4. Mục tiêu perception

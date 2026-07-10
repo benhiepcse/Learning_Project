@@ -149,6 +149,10 @@ Phân loại kết quả:
 - `WEAK`
 - `INVALID`
 
+<p align="center">
+  <img src="images/project_35.png" width="800">
+</p>
+
 ---
 
 # 3. Mục tiêu perception

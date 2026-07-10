@@ -183,6 +183,10 @@ System này nhận đầu vào là:
    - hoặc định dạng đơn giản tự thiết kế
 7. ghi point cloud report
 
+<p align="center">
+  <img src="images/project_54.png" width="800">
+</p>
+
 ---
 
 # 5. Mục tiêu perception

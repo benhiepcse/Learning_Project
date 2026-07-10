@@ -88,6 +88,10 @@ Bài 25 = perception reasoning theo scene / object
 Bài 26 = dựng lại "engine" feature registration sạch, tái sử dụng được
 ```
 
+<p align="center">
+  <img src="images/project_26.png" width="800">
+</p>
+
 ---
 
 # 3. Bài 26 nằm ở đâu trong roadmap

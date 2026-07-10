@@ -92,6 +92,10 @@ A → B → C → D
 
 là **cùng một track** chứ không phải 4 object độc lập.
 
+<p align="center">
+  <img src="images/project_9.png" width="800">
+</p>
+
 ---
 
 # 2. Bài 9 nằm ở đâu trong roadmap

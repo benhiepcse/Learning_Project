@@ -205,6 +205,10 @@ T (4x4)
    - khoảng Z / X / Y trong robot frame
 6. ghi robot-centric report
 
+<p align="center">
+  <img src="images/project_49.png" width="800">
+</p>
+
 ---
 
 # 5. Mục tiêu perception

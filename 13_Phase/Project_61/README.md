@@ -202,6 +202,10 @@ System này nhận đầu vào là:
 6. gom kết quả perception cuối cùng
 7. ghi **robot perception pipeline report**
 
+<p align="center">
+  <img src="images/project_61.png" width="800">
+</p>
+
 ---
 
 # 5. Mục tiêu perception

@@ -71,6 +71,10 @@ Ví dụ robot nhìn thấy:
 
 thì module này phải gán nhãn đúng shape cho từng vật thể.
 
+<p align="center">
+  <img src="images/project_4.png" width="800">
+</p>
+
 ---
 
 # 2. Bài 4 nằm ở đâu trong Đợt 1

@@ -170,6 +170,10 @@ System này nhận đầu vào là:
 6. tính **corridor confidence**
 7. ghi **walking corridor report**
 
+<p align="center">
+  <img src="images/project_58.png" width="800">
+</p>
+
 ---
 
 # 5. Mục tiêu perception

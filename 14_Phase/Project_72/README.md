@@ -173,6 +173,10 @@ Optional:
 5. build **recovery action result**
 6. ghi **recovery decision report**
 
+<p align="center">
+  <img src="images/project_72.png" width="800">
+</p>
+
 ---
 
 # 4. Mục tiêu perception

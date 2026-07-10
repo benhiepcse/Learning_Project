@@ -216,6 +216,10 @@ System này nhận đầu vào là:
 6. chọn **final interaction target**
 7. ghi **humanoid interaction target selection report**
 
+<p align="center">
+  <img src="images/project_65.png" width="800">
+</p>
+
 ---
 
 # 5. Mục tiêu perception

@@ -170,6 +170,10 @@ Optional:
    - abort mission
 6. ghi **recovery outcome report**
 
+<p align="center">
+  <img src="images/project_73.png" width="800">
+</p>
+
 ---
 
 # 4. Mục tiêu perception

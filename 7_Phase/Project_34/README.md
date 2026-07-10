@@ -112,6 +112,10 @@ Nhiệm vụ của bài:
    - tính `disparity = u_left - u_right`
 8. ghi stereo report
 
+<p align="center">
+  <img src="images/project_34.png" width="800">
+</p>
+
 ---
 
 # 3. Mục tiêu perception

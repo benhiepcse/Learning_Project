@@ -152,6 +152,10 @@ Sau đó, bạn tạo thêm **bộ phân tích track table** để:
 3. tìm track depth dao động mạnh nhất
 4. xuất bảng xếp hạng track
 
+<p align="center">
+  <img src="images/project_39.png" width="800">
+</p>
+
 ---
 
 # 4. Mục tiêu perception

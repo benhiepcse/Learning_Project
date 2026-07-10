@@ -147,6 +147,10 @@ vật lệch trái / phải bao nhiêu
 vật có nằm trong vùng với tới của tay robot hay không
 ```
 
+<p align="center">
+  <img src="images/project_14.png" width="800">
+</p>
+
 ---
 
 # 3. Bài 14 nằm ở đâu trong roadmap

@@ -97,6 +97,10 @@ Trong chuỗi đó, robot cần biết:
 
 Từ đó robot có thể tạo một **visual memory graph** cơ bản.
 
+<p align="center">
+  <img src="images/project_27.png" width="800">
+</p>
+
 ---
 
 # 3. Bài 27 nằm ở đâu trong roadmap

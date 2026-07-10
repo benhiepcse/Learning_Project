@@ -176,6 +176,10 @@ Mục tiêu là:
 6. chọn disparity có cost tốt nhất
 7. optional: so với ground-truth disparity nếu có
 
+<p align="center">
+  <img src="images/project_44.png" width="800">
+</p>
+
 ---
 
 # 5. Mục tiêu perception

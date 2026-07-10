@@ -206,6 +206,10 @@ System này nhận đầu vào là:
    - `DANGER`
 4. ghi obstacle reasoning report
 
+<p align="center">
+  <img src="images/project_50.png" width="800">
+</p>
+
 ---
 
 # 5. Mục tiêu perception

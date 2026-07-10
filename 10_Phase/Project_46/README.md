@@ -161,6 +161,10 @@ Ngoài ra system còn có:
 5. so sánh nhiều rig với nhau
 6. ghi report đánh giá rig
 
+<p align="center">
+  <img src="images/project_46.png" width="800">
+</p>
+
 ---
 
 # 4. Mục tiêu perception

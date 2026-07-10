@@ -128,6 +128,10 @@ Mini-project này yêu cầu bạn xây một hệ thống nhỏ để robot:
 - vẽ overlay lên ảnh trái
 - ghi report table-cleaning cho từng scene
 
+<p align="center">
+  <img src="images/project_19.png" width="800">
+</p>
+
 ---
 
 # 3. Bài 19 nằm ở đâu trong roadmap

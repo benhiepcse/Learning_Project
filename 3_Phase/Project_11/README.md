@@ -131,6 +131,10 @@ vùng nào đang gần camera hơn
 vùng nào đang xa hơn
 ```
 
+<p align="center">
+  <img src="images/project_11.png" width="800">
+</p>
+
 ---
 
 # 3. Bài 11 nằm ở đâu trong roadmap

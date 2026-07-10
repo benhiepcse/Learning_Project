@@ -166,6 +166,10 @@ System này nhận đầu vào là:
 5. kiểm tra consistency
 6. ghi **projection analysis report**
 
+<p align="center">
+  <img src="images/project_62.png" width="800">
+</p>
+
 ---
 
 # 5. Mục tiêu perception

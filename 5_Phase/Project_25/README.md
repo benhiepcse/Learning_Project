@@ -114,6 +114,10 @@ Mini-project này yêu cầu bạn xây một hệ thống để robot:
   - `IGNORE`
 - ghi **tabletop scene memory report**
 
+<p align="center">
+  <img src="images/project_25.png" width="800">
+</p>
+
 ---
 
 # 3. Bài 25 nằm ở đâu trong roadmap

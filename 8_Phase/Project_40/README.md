@@ -170,6 +170,10 @@ Sau đó generator sẽ tạo ra **dashboard summary** như:
 - số track `UNSTABLE`
 - overall pipeline quality label
 
+<p align="center">
+  <img src="images/project_40.png" width="800">
+</p>
+
 ---
 
 # 4. Mục tiêu perception

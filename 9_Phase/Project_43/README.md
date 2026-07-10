@@ -201,6 +201,10 @@ Mỗi sample có thể gồm:
 ### e. Tính disparity sơ bộ nếu có đủ cặp điểm
 ### f. Sinh report về stereo geometry quality
 
+<p align="center">
+  <img src="images/project_43.png" width="800">
+</p>
+
 ---
 
 # 5. Mục tiêu perception

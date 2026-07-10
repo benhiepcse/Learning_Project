@@ -215,6 +215,10 @@ distorted image point
 → 3D reconstruction
 ```
 
+<p align="center">
+  <img src="images/project_41.png" width="800">
+</p>
+
 ---
 
 # 5. Mục tiêu perception

@@ -138,6 +138,10 @@ Với mỗi frame:
    - update track
    - ghi report
 
+<p align="center">
+  <img src="images/project_38.png" width="800">
+</p>
+
 ---
 
 # 4. Mục tiêu perception

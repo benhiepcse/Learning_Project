@@ -106,6 +106,10 @@ Bài này rất quan trọng vì nó dạy robot cách:
 - căn chỉnh góc nhìn khác nhau
 - chuẩn bị cho change detection, mapping, visual localization
 
+<p align="center">
+  <img src="images/project_23.png" width="800">
+</p>
+
 ---
 
 # 3. Bài 23 nằm ở đâu trong roadmap

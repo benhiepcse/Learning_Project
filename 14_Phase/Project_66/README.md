@@ -160,6 +160,10 @@ System này nhận đầu vào là:
    - `DROP_TARGET`
 6. ghi **following tracking plan report**
 
+<p align="center">
+  <img src="images/project_66.png" width="800">
+</p>
+
 ---
 
 # 4. Mục tiêu perception

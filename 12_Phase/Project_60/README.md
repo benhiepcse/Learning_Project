@@ -172,6 +172,10 @@ System này nhận đầu vào là:
 5. sinh **final local navigation command**
 6. ghi **navigation decision report**
 
+<p align="center">
+  <img src="images/project_60.png" width="800">
+</p>
+
 ---
 
 # 5. Mục tiêu perception

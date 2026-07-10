@@ -67,6 +67,10 @@ Ví dụ robot nhìn thấy:
 
 thì module này phải phát hiện được các vùng đó trong ảnh.
 
+<p align="center">
+  <img src="images/project_2.png" width="800">
+</p>
+
 ---
 
 # 2. Bài 2 nằm ở đâu trong Đợt 1

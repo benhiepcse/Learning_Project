@@ -178,6 +178,10 @@ depth = fx * baseline / disparity
 7. vẽ histogram / profile / BM vs SGM depth comparison
 8. ghi report
 
+<p align="center">
+  <img src="images/project_52.png" width="800">
+</p>
+
 ---
 
 # 5. Mục tiêu perception

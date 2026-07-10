@@ -99,6 +99,10 @@ Mini-project này yêu cầu bạn xây một hệ thống nhỏ để robot:
   - object có phù hợp để pick không?
 - ghi report dạng **pipeline-level**
 
+<p align="center">
+  <img src="images/project_16.png" width="800">
+</p>
+
 ---
 
 # 3. Bài 16 nằm ở đâu trong roadmap

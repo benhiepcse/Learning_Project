@@ -124,6 +124,10 @@ Mini-project này yêu cầu bạn xây một hệ thống nhỏ để robot:
 - vẽ overlay lên ảnh trái
 - ghi report cho từng scene
 
+<p align="center">
+  <img src="images/project_17.png" width="800">
+</p>
+
 ---
 
 # 3. Bài 17 nằm ở đâu trong roadmap

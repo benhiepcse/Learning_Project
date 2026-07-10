@@ -86,6 +86,10 @@ Thay vì chạy code lung tung trong `main.cpp`, bạn sẽ tạo một **task s
 - `smart pointer` dùng để quản lý object task an toàn hơn
 - `Intrinsic Matrix K` dùng để project điểm 3D sang pixel 2D
 
+<p align="center">
+  <img src="images/project_31.png" width="800">
+</p>
+
 ---
 
 # 3. Mục tiêu perception

@@ -82,6 +82,10 @@ Bài 28 sẽ thêm một tình huống perception thực tế hơn:
 
 Bài 28 vì vậy sẽ xây một **Reference Scene Revisit Detector**.
 
+<p align="center">
+  <img src="images/project_28.png" width="800">
+</p>
+
 ---
 
 # 3. Bài 28 nằm ở đâu trong roadmap

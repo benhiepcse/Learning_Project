@@ -169,6 +169,10 @@ System này nhận đầu vào là:
 5. tạo obstacle summary cho camera frame
 6. ghi report
 
+<p align="center">
+  <img src="images/project_55.png" width="800">
+</p>
+
 ---
 
 # 5. Mục tiêu perception

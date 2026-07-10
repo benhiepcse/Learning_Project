@@ -212,6 +212,10 @@ System này nhận đầu vào là:
    - transform report
    - robot-frame obstacle report
 
+<p align="center">
+  <img src="images/project_56.png" width="800">
+</p>
+
 ---
 
 # 5. Mục tiêu perception

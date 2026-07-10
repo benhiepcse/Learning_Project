@@ -168,6 +168,10 @@ System này nhận đầu vào là:
 4. gán **direction confidence**
 5. ghi **walking direction report**
 
+<p align="center">
+  <img src="images/project_59.png" width="800">
+</p>
+
 ---
 
 # 5. Mục tiêu perception

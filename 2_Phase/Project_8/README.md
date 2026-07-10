@@ -91,6 +91,9 @@ sang
 ```text
 “ROI này có 1 hoặc nhiều candidate object regions”
 ```
+<p align="center">
+  <img src="images/project_8.png" width="800">
+</p>
 
 ---
 

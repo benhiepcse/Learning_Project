@@ -79,6 +79,10 @@ Ví dụ robot nhìn một scene trên bàn hoặc trước mặt:
 
 thì module này phải **đánh giá từng ROI** chứ không chỉ xử lý ảnh như một khối duy nhất.
 
+<p align="center">
+  <img src="images/project_7.png" width="800">
+</p>
+
 ---
 
 # 2. Bài 7 nằm ở đâu trong roadmap

@@ -162,6 +162,10 @@ Optional:
 5. detect **stall / anomaly / repeated failure patterns**
 6. ghi **mission progress health report**
 
+<p align="center">
+  <img src="images/project_71.png" width="800">
+</p>
+
 ---
 
 # 4. Mục tiêu perception

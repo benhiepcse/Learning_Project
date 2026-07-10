@@ -71,6 +71,10 @@ Ví dụ robot nhìn thấy:
 
 thì module này phải phát hiện được **đường biên** và **ranh giới contour** của các vật đó.
 
+<p align="center">
+  <img src="images/project_3.png" width="800">
+</p>
+
 ---
 
 # 2. Bài 3 nằm ở đâu trong Đợt 1

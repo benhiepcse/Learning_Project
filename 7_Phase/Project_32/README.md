@@ -97,6 +97,10 @@ v = fy * Yc / Zc + cy
 - quản lý point cloud nhỏ bằng vector
 - ghi report đầy đủ
 
+<p align="center">
+  <img src="images/project_32.png" width="800">
+</p>
+
 ---
 
 # 3. Mục tiêu perception

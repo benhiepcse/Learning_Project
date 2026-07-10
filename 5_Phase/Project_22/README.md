@@ -115,6 +115,10 @@ Mini-project này yêu cầu bạn xây một hệ thống để robot:
 - đánh giá homography có ổn không
 - lưu overlay + report
 
+<p align="center">
+  <img src="images/project_22.png" width="800">
+</p>
+
 ---
 
 # 3. Bài 22 nằm ở đâu trong roadmap
