@@ -51,7 +51,7 @@ Bài này giúp bạn làm quen với vai trò cơ bản của **Python**, **C++
 - **Computer Vision** phụ trách đọc ảnh, kiểm tra pixel, kiểm tra kích thước ảnh và phân loại ảnh sáng/tối.
 
 <p align="center">
-  <img src="images/project_1.png" width="800">
+  <img src="../../images/project_1.png" width="800">
 </p>
 
 ---
