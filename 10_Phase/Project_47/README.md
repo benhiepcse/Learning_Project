@@ -197,7 +197,7 @@ Trong đó:
 6. ghi report đánh giá chất lượng depth output
 
 <p align="center">
-  <img src="images/project_47.png" width="800">
+  <img src="../../images/project_47.png" width="800">
 </p>
 
 ---

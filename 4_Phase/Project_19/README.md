@@ -129,7 +129,7 @@ Mini-project này yêu cầu bạn xây một hệ thống nhỏ để robot:
 - ghi report table-cleaning cho từng scene
 
 <p align="center">
-  <img src="images/project_19.png" width="800">
+  <img src="../../images/project_19.png" width="800">
 </p>
 
 ---

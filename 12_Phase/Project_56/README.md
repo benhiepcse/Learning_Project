@@ -213,7 +213,7 @@ System này nhận đầu vào là:
    - robot-frame obstacle report
 
 <p align="center">
-  <img src="images/project_56.png" width="800">
+  <img src="../../images/project_56.png" width="800">
 </p>
 
 ---

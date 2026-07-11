@@ -153,7 +153,7 @@ Sau đó, bạn tạo thêm **bộ phân tích track table** để:
 4. xuất bảng xếp hạng track
 
 <p align="center">
-  <img src="images/project_39.png" width="800">
+  <img src="../../images/project_39.png" width="800">
 </p>
 
 ---

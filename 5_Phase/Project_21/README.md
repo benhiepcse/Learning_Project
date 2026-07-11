@@ -119,7 +119,7 @@ Bài 21 yêu cầu bạn xây một mini-project để robot:
 - xuất **tracking report** cho humanoid robot
 
 <p align="center">
-  <img src="images/project_21.png" width="800">
+  <img src="../../images/project_21.png" width="800">
 </p>
 
 ---

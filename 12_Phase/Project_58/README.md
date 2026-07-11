@@ -171,7 +171,7 @@ System này nhận đầu vào là:
 7. ghi **walking corridor report**
 
 <p align="center">
-  <img src="images/project_58.png" width="800">
+  <img src="../../images/project_58.png" width="800">
 </p>
 
 ---

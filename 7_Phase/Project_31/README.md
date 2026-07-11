@@ -87,7 +87,7 @@ Thay vì chạy code lung tung trong `main.cpp`, bạn sẽ tạo một **task s
 - `Intrinsic Matrix K` dùng để project điểm 3D sang pixel 2D
 
 <p align="center">
-  <img src="images/project_31.png" width="800">
+  <img src="../../images/project_31.png" width="800">
 </p>
 
 ---

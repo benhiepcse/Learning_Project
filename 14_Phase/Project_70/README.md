@@ -158,7 +158,7 @@ Optional:
 6. ghi **mission lifecycle report**
 
 <p align="center">
-  <img src="images/project_70.png" width="800">
+  <img src="../../images/project_70.png" width="800">
 </p>
 
 ---

@@ -206,7 +206,7 @@ T (4x4)
 6. ghi robot-centric report
 
 <p align="center">
-  <img src="images/project_49.png" width="800">
+  <img src="../../images/project_49.png" width="800">
 </p>
 
 ---

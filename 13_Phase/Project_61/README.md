@@ -203,7 +203,7 @@ System này nhận đầu vào là:
 7. ghi **robot perception pipeline report**
 
 <p align="center">
-  <img src="images/project_61.png" width="800">
+  <img src="../../images/project_61.png" width="800">
 </p>
 
 ---

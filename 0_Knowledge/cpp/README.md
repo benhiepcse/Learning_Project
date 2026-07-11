@@ -1254,6 +1254,10 @@ for (auto item : container) {
 auto it = container.begin();
 ```
 
+<p align="center">
+  <img src="../../images/cpp_auto.png" width="800">
+</p>
+
 ---
 
 # 6. C++ Const
@@ -1355,6 +1359,10 @@ const int* ptr;
 int* const ptr;
 const int* const ptr;
 ```
+
+<p align="center">
+  <img src="../../images/cpp_const.png" width="800">
+</p>
 
 ---
 
@@ -2640,6 +2648,12 @@ if (condition1) {
 }
 ```
 
+<p align="center">
+
+  <img src="../../images/cpp_if_else.png" width="800">
+
+</p>
+
 ---
 
 # 11. C++ Switch
@@ -2867,6 +2881,12 @@ switch (expression) {
         break;
 }
 ```
+
+<p align="center">
+
+  <img src="../../images/cpp_switch.png" width="800">
+
+</p>
 
 ---
 
@@ -3265,6 +3285,12 @@ for (auto item : container) {
 break;
 continue;
 ```
+
+<p align="center">
+
+  <img src="../../images/cpp_loop.png" width="800">
+
+</p>
 
 ---
 
@@ -4007,6 +4033,12 @@ void printName(const string& name) {
 }
 ```
 
+<p align="center">
+
+  <img src="../../images/cpp_function.png" width="800">
+
+</p>
+
 ---
 
 # 14. C++ Lambdas
@@ -4413,6 +4445,12 @@ sort(v.begin(), v.end(), [](int a, int b) {
     return a < b;
 });
 ```
+
+<p align="center">
+
+  <img src="../../images/cpp_lamda.png" width="800">
+
+</p>
 
 ---
 
@@ -4956,6 +4994,12 @@ int power(int base, int exponent) {
 }
 ```
 
+<p align="center">
+
+  <img src="../../images/cpp_recursion.png" width="800">
+
+</p>
+
 ---
 
 # End of Phase 4
@@ -5362,6 +5406,12 @@ for (int value : numbers) {
     ...
 }
 ```
+
+<p align="center">
+
+  <img src="../../images/cpp_array.png" width="800">
+
+</p>
 
 ---
 
@@ -5992,6 +6042,12 @@ numbers.reserve(capacity);
 sort(numbers.begin(), numbers.end());
 ```
 
+<p align="center">
+
+  <img src="../../images/cpp_vector.png" width="800">
+
+</p>
+
 ---
 
 # 18. C++ Pass By Reference
@@ -6559,6 +6615,12 @@ for (const int& number : numbers) {
 }
 ```
 
+<p align="center">
+
+  <img src="../../images/cpp_pass_reference.png" width="800">
+
+</p>
+
 ---
 
 # End of Phase 5
@@ -6748,6 +6810,10 @@ int x = 10;
 - pointer có thể giữ **địa chỉ của x**
 
 ---
+
+<p align="center">
+  <img src="../../images/cpp_address.png" width="800">
+</p>
 
 # 20. C++ Pointers
 
@@ -7427,6 +7493,10 @@ if (ptr != nullptr) {
 }
 ```
 
+<p align="center">
+  <img src="../../images/cpp_pointer.png" width="800">
+</p>
+
 ---
 
 # 21. Dynamic Memory in C++
@@ -8054,6 +8124,10 @@ delete[] arr;
 arr = nullptr;
 ```
 
+<p align="center">
+  <img src="../../images/cpp_dynamic.png" width="800">
+</p>
+
 ---
 
 # 22. Mini Pointer Visual Models
@@ -8477,6 +8551,10 @@ obj.functionName();
 StructName obj = {value1, value2};
 ```
 
+<p align="center">
+  <img src="../../images/cpp_struct.png" width="800">
+</p>
+
 ---
 
 # 24. C++ Classes
@@ -8890,6 +8968,10 @@ ClassName obj(args);
 obj.methodName();
 ```
 
+<p align="center">
+  <img src="../../images/cpp_class.png" width="800">
+</p>
+
 ---
 
 # 25. C++ Copy Constructor
@@ -9093,6 +9175,10 @@ for (int i = 0; i < size; i++) {
     data[i] = other.data[i];
 }
 ```
+
+<p align="center">
+  <img src="../../images/cpp_copy_construct.png" width="800">
+</p>
 
 ---
 
@@ -9404,6 +9490,10 @@ public:
     }
 };
 ```
+
+<p align="center">
+  <img src="../../images/cpp_inheritance.png" width="800">
+</p>
 
 ---
 
@@ -9730,6 +9820,10 @@ public:
 };
 ```
 
+<p align="center">
+  <img src="../../images/cpp_virtual.png" width="800">
+</p>
+
 ---
 
 # 28. C++ Enums
@@ -10012,6 +10106,10 @@ switch (value) {
 
 int number = static_cast<int>(value);
 ```
+
+<p align="center">
+  <img src="../../images/cpp_enum.png" width="800">
+</p>
 
 ---
 
@@ -10333,6 +10431,10 @@ int main() {
 }
 ```
 
+<p align="center">
+  <img src="../../images/cpp_hpp_cpp.png" width="800">
+</p>
+
 ---
 
 # 30. C++ `#pragma once`
@@ -10436,6 +10538,10 @@ vì rất gọn và dễ học.
 class ClassName {
 };
 ```
+
+<p align="center">
+  <img src="../../images/cpp_pragma.png" width="800">
+</p>
 
 ---
 
@@ -10698,6 +10804,10 @@ public:
 
 MathUtils::add(1, 2);
 ```
+
+<p align="center">
+  <img src="../../images/cpp_static.png" width="800">
+</p>
 
 ---
 
@@ -10990,6 +11100,10 @@ my_namespace::functionName();
 namespace shortName = very::long::namespace_name;
 ```
 
+<p align="center">
+  <img src="../../images/cpp_namespace.png" width="800">
+</p>
+
 ---
 
 # End of Phase 8
@@ -11225,6 +11339,10 @@ st.empty();
 st.size();
 ```
 
+<p align="center">
+  <img src="../../images/cpp_stack.png" width="800">
+</p>
+
 ---
 
 # 34. C++ Queue
@@ -11398,6 +11516,10 @@ q.back();
 q.empty();
 q.size();
 ```
+
+<p align="center">
+  <img src="../../images/cpp_queue.png" width="800">
+</p>
 
 ---
 
@@ -11646,6 +11768,10 @@ newNode->next = nullptr;
 
 delete nodePointer;
 ```
+
+<p align="center">
+  <img src="../../images/cpp_linked_list.png" width="800">
+</p>
 
 ---
 
@@ -11904,6 +12030,10 @@ preorder(root);
 postorder(root);
 ```
 
+<p align="center">
+  <img src="../../images/cpp_bst.png" width="800">
+</p>
+
 ---
 
 # 37. C++ Maps
@@ -12093,6 +12223,10 @@ for (auto [key, value] : mp) {
     ...
 }
 ```
+
+<p align="center">
+  <img src="../../images/cpp_map.png" width="800">
+</p>
 
 ---
 
@@ -12406,6 +12540,10 @@ bfs(graph, "A");
 dfs(graph, "A", visited);
 ```
 
+<p align="center">
+  <img src="../../images/cpp_graph.png" width="800">
+</p>
+
 ---
 
 # End of Phase 9
@@ -12666,6 +12804,10 @@ try {
 }
 ```
 
+<p align="center">
+  <img src="../../images/cpp_exception.png" width="800">
+</p>
+
 ---
 
 # 40. C++ Macros `#define`
@@ -12884,6 +13026,10 @@ Trong C++ hiện đại, `constexpr` thường tốt hơn macro constant.
 ...
 #endif
 ```
+
+<p align="center">
+  <img src="../../images/cpp_macros.png" width="800">
+</p>
 
 ---
 
@@ -13262,6 +13408,10 @@ public:
 };
 ```
 
+<p align="center">
+  <img src="../../images/cpp_template.png" width="800">
+</p>
+
 ---
 
 # End of Phase 10
@@ -13392,6 +13542,10 @@ Launch = chạy nhiều node cùng lúc
 Parameter = cấu hình node
 ```
 
+<p align="center">
+  <img src="../../images/ros2_overview.png" width="800">
+</p>
+
 ---
 
 # 43. ROS2 Workspace
@@ -13486,6 +13640,10 @@ colcon build
 source install/setup.bash
 colcon build --packages-select package_name
 ```
+
+<p align="center">
+  <img src="../../images/ros2_workspace.png" width="800">
+</p>
 
 ---
 
@@ -13587,6 +13745,10 @@ source install/setup.bash
 ros2 run package_name executable_name
 ```
 
+<p align="center">
+  <img src="../../images/cpp_package.png" width="800">
+</p>
+
 ---
 
 # 45. ROS2 Node
@@ -13683,6 +13845,10 @@ public:
 };
 ```
 
+<p align="center">
+  <img src="../../images/ros2_node.png" width="800">
+</p>
+
 ---
 
 # 46. ROS2 Topic
@@ -13776,6 +13942,10 @@ status_publisher -> /robot_status
 camera_node      -> /camera/image_raw
 control_node     -> /cmd_vel
 ```
+
+<p align="center">
+  <img src="../../images/ros2_topic.png" width="800">
+</p>
 
 ---
 
@@ -13875,6 +14045,10 @@ ros2 topic echo /robot_status
 publisher_ = this->create_publisher<MessageType>("topic_name", 10);
 publisher_->publish(message);
 ```
+
+<p align="center">
+  <img src="../../images/ros2_publisher.png" width="800">
+</p>
 
 ---
 
@@ -13987,6 +14161,10 @@ subscriber_ = this->create_subscription<MessageType>(
 );
 ```
 
+<p align="center">
+  <img src="../../images/ros2_subscriber.png" width="800">
+</p>
+
 ---
 
 # 49. ROS2 Service and Client
@@ -14087,6 +14265,10 @@ ros2 service call /service_name service_type "request"
 this->create_service<ServiceType>("service_name", callback);
 ```
 
+<p align="center">
+  <img src="../../images/ros2_service.png" width="800">
+</p>
+
 ---
 
 # 50. ROS2 Action
@@ -14163,6 +14345,10 @@ ros2 action info /action_name
 ros2 action send_goal /action_name action_type "goal"
 ros2 action send_goal /action_name action_type "goal" --feedback
 ```
+
+<p align="center">
+  <img src="../../images/ros2_action.png" width="800">
+</p>
 
 ---
 
@@ -14255,6 +14441,10 @@ ros2 param list
 ros2 param get /node param
 ros2 param set /node param value
 ```
+
+<p align="center">
+  <img src="../../images/ros2_parameter.png" width="800">
+</p>
 
 ---
 

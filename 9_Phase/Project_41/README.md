@@ -216,7 +216,7 @@ distorted image point
 ```
 
 <p align="center">
-  <img src="images/project_41.png" width="800">
+  <img src="../../images/project_41.png" width="800">
 </p>
 
 ---

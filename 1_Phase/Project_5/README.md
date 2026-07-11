@@ -72,7 +72,7 @@ Ví dụ robot có:
 thì module này phải tìm được **các cặp điểm tương ứng** giữa 2 ảnh đó.
 
 <p align="center">
-  <img src="images/project_5.png" width="800">
+  <img src="../../images/project_5.png" width="800">
 </p>
 
 ---

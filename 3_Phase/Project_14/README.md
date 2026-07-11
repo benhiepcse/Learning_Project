@@ -148,7 +148,7 @@ vật có nằm trong vùng với tới của tay robot hay không
 ```
 
 <p align="center">
-  <img src="images/project_14.png" width="800">
+  <img src="../../images/project_14.png" width="800">
 </p>
 
 ---

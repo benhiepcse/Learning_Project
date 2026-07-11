@@ -116,7 +116,7 @@ Mini-project này yêu cầu bạn xây một hệ thống để robot:
 - lưu overlay + report
 
 <p align="center">
-  <img src="images/project_22.png" width="800">
+  <img src="../../images/project_22.png" width="800">
 </p>
 
 ---

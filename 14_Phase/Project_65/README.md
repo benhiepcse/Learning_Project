@@ -217,7 +217,7 @@ System này nhận đầu vào là:
 7. ghi **humanoid interaction target selection report**
 
 <p align="center">
-  <img src="images/project_65.png" width="800">
+  <img src="../../images/project_65.png" width="800">
 </p>
 
 ---

@@ -186,7 +186,7 @@ Mỗi sample mô tả một cặp hàng ảnh trái/phải, cùng với:
 5. thống kê chất lượng matching của cả strip
 
 <p align="center">
-  <img src="images/project_45.png" width="800">
+  <img src="../../images/project_45.png" width="800">
 </p>
 
 ---

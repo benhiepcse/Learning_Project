@@ -171,7 +171,7 @@ Optional:
 6. ghi **recovery outcome report**
 
 <p align="center">
-  <img src="images/project_73.png" width="800">
+  <img src="../../images/project_73.png" width="800">
 </p>
 
 ---

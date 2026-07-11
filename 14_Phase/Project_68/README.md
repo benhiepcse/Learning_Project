@@ -146,7 +146,7 @@ Optional:
 6. ghi **table-cleaning schedule report**
 
 <p align="center">
-  <img src="images/project_68.png" width="800">
+  <img src="../../images/project_68.png" width="800">
 </p>
 
 ---

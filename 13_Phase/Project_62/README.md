@@ -167,7 +167,7 @@ System này nhận đầu vào là:
 6. ghi **projection analysis report**
 
 <p align="center">
-  <img src="images/project_62.png" width="800">
+  <img src="../../images/project_62.png" width="800">
 </p>
 
 ---

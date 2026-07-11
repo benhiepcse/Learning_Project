@@ -125,7 +125,7 @@ Mini-project này yêu cầu bạn xây một hệ thống nhỏ để robot:
 - ghi report cho từng scene
 
 <p align="center">
-  <img src="images/project_17.png" width="800">
+  <img src="../../images/project_17.png" width="800">
 </p>
 
 ---

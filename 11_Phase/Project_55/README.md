@@ -170,7 +170,7 @@ System này nhận đầu vào là:
 6. ghi report
 
 <p align="center">
-  <img src="images/project_55.png" width="800">
+  <img src="../../images/project_55.png" width="800">
 </p>
 
 ---

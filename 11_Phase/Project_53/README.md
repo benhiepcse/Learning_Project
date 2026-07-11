@@ -188,7 +188,7 @@ Cho mỗi depth map, gán:
 hoặc thang điểm 0–100.
 
 <p align="center">
-  <img src="images/project_53.png" width="800">
+  <img src="../../images/project_53.png" width="800">
 </p>
 
 ---

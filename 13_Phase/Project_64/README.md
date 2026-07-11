@@ -179,6 +179,10 @@ System này nhận đầu vào là:
 5. chọn **top-priority target**
 6. ghi **multi-target prioritization report**
 
+<p align="center">
+  <img src="../../images/project_64.png" width="800">
+</p>
+
 ---
 
 # 5. Mục tiêu perception

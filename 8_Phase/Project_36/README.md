@@ -173,7 +173,7 @@ Vì vậy Bài 36 sẽ xây một **Stereo Disparity Track Manager** có nhiệm
 7. xuất trạng thái track hiện tại
 
 <p align="center">
-  <img src="images/project_36.png" width="800">
+  <img src="../../images/project_36.png" width="800">
 </p>
 
 ---

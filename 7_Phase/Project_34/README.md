@@ -113,7 +113,7 @@ Nhiệm vụ của bài:
 8. ghi stereo report
 
 <p align="center">
-  <img src="images/project_34.png" width="800">
+  <img src="../../images/project_34.png" width="800">
 </p>
 
 ---

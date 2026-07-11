@@ -558,6 +558,10 @@ Brightness Label: NORMAL
 --------------------------------
 ```
 
+<p align="center">
+  <img src="../../images/output_project_1.png" width="800">
+</p>
+
 ---
 
 # 8. Vai trò trong Humanoid Robot AI Perception

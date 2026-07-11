@@ -85,7 +85,7 @@ Vì vậy:
 nhưng **bắt buộc phải kết hợp kiến thức của Đợt 1 + Đợt 2**.
 
 <p align="center">
-  <img src="images/project_6.png" width="800">
+  <img src="../../images/project_6.png" width="800">
 </p>
 
 ---

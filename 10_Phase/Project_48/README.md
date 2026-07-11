@@ -186,7 +186,7 @@ Trong đó:
 6. ghi point cloud report
 
 <p align="center">
-  <img src="images/project_48.png" width="800">
+  <img src="../../images/project_48.png" width="800">
 </p>
 
 ---

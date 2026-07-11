@@ -183,7 +183,7 @@ System này nhận đầu vào là:
 6. ghi **target localization inspection report**
 
 <p align="center">
-  <img src="images/project_63.png" width="800">
+  <img src="../../images/project_63.png" width="800">
 </p>
 
 ---

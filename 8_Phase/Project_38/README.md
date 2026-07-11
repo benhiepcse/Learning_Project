@@ -139,7 +139,7 @@ Với mỗi frame:
    - ghi report
 
 <p align="center">
-  <img src="images/project_38.png" width="800">
+  <img src="../../images/project_38.png" width="800">
 </p>
 
 ---

@@ -162,7 +162,7 @@ Ngoài ra system còn có:
 6. ghi report đánh giá rig
 
 <p align="center">
-  <img src="images/project_46.png" width="800">
+  <img src="../../images/project_46.png" width="800">
 </p>
 
 ---

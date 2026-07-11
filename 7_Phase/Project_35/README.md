@@ -150,7 +150,7 @@ Phân loại kết quả:
 - `INVALID`
 
 <p align="center">
-  <img src="images/project_35.png" width="800">
+  <img src="../../images/project_35.png" width="800">
 </p>
 
 ---

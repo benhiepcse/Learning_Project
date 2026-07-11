@@ -92,7 +92,7 @@ Ví dụ:
 - revisit similarity / feature similarity
 
 <p align="center">
-  <img src="images/project_29.png" width="800">
+  <img src="../../images/project_29.png" width="800">
 </p>
 
 ---

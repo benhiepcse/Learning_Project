@@ -207,7 +207,7 @@ System này nhận đầu vào là:
 4. ghi obstacle reasoning report
 
 <p align="center">
-  <img src="images/project_50.png" width="800">
+  <img src="../../images/project_50.png" width="800">
 </p>
 
 ---

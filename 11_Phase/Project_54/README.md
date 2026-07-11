@@ -184,7 +184,7 @@ System này nhận đầu vào là:
 7. ghi point cloud report
 
 <p align="center">
-  <img src="images/project_54.png" width="800">
+  <img src="../../ images/project_54.png" width="800">
 </p>
 
 ---

@@ -163,7 +163,7 @@ Optional:
 6. ghi **mission progress health report**
 
 <p align="center">
-  <img src="images/project_71.png" width="800">
+  <img src="../../images/project_71.png" width="800">
 </p>
 
 ---

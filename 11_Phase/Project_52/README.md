@@ -179,7 +179,7 @@ depth = fx * baseline / disparity
 8. ghi report
 
 <p align="center">
-  <img src="images/project_52.png" width="800">
+  <img src="../../images/project_52.png" width="800">
 </p>
 
 ---

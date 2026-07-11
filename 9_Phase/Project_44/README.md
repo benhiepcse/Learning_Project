@@ -177,7 +177,7 @@ Mục tiêu là:
 7. optional: so với ground-truth disparity nếu có
 
 <p align="center">
-  <img src="images/project_44.png" width="800">
+  <img src="../../images/project_44.png" width="800">
 </p>
 
 ---

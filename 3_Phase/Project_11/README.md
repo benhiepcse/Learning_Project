@@ -132,7 +132,7 @@ vùng nào đang xa hơn
 ```
 
 <p align="center">
-  <img src="images/project_11.png" width="800">
+  <img src="../../images/project_11.png" width="800">
 </p>
 
 ---

@@ -68,7 +68,7 @@ Ví dụ robot nhìn thấy:
 thì module này phải phát hiện được các vùng đó trong ảnh.
 
 <p align="center">
-  <img src="images/project_2.png" width="800">
+  <img src="../../images/project_2.png" width="800">
 </p>
 
 ---
@@ -825,6 +825,10 @@ Area: 5120
 Valid: true
 ----------------------------------------
 ```
+
+<p align="center">
+  <img src="../../images/output_project_2.png" width="800">
+</p>
 
 ---
 

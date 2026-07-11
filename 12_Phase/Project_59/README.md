@@ -169,7 +169,7 @@ System này nhận đầu vào là:
 5. ghi **walking direction report**
 
 <p align="center">
-  <img src="images/project_59.png" width="800">
+  <img src="../../images/project_59.png" width="800">
 </p>
 
 ---

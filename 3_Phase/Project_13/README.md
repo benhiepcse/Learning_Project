@@ -151,7 +151,7 @@ vật thể ở trước camera cách bao xa
 vùng nào trong ảnh tạo ra cụm điểm 3D gần robot
 ```
 <p align="center">
-  <img src="images/project_13.png" width="800">
+  <img src="../../images/project_13.png" width="800">
 </p>
 
 ---

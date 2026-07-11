@@ -2379,6 +2379,10 @@ path = r"C:\Users\Dang\file.txt"
 print(f"Text = {text}")
 ```
 
+<p align="center">
+  <img src="../../images/python_string.png" width="800">
+</p>
+
 ---
 
 # End of Phase 2
@@ -2765,6 +2769,10 @@ copy_list = my_list.copy()
 len(my_list)
 ```
 
+<p align="center">
+  <img src="../../images/python_list.png" width="800">
+</p>
+
 ---
 
 # 9. Python Tuples
@@ -2927,6 +2935,10 @@ a, b = (10, 20)
 
 single_tuple = (10,)
 ```
+
+<p align="center">
+  <img src="../../images/python_tuple.png" width="800">
+</p>
 
 ---
 
@@ -3178,6 +3190,10 @@ a.intersection(b)
 a.difference(b)
 a.symmetric_difference(b)
 ```
+
+<p align="center">
+  <img src="../../images/python_set.png" width="800">
+</p>
 
 ---
 
@@ -3505,6 +3521,10 @@ for key, value in my_dict.items():
 nested_dict["key1"]["key2"]
 ```
 
+<p align="center">
+  <img src="../../images/python_dict.png" width="800">
+</p>
+
 ---
 
 # End of Phase 3
@@ -3820,6 +3840,10 @@ if not condition:
 value = x if condition else y
 ```
 
+<p align="center">
+  <img src="../../images/python_if_else.png" width="800">
+</p>
+
 ---
 
 # 13. Python Switch / Match Case
@@ -4062,6 +4086,10 @@ match value:
     case x if x > 0:
         ...
 ```
+
+<p align="center">
+  <img src="../../images/python_switch.png" width="800">
+</p>
 
 ---
 
@@ -4449,6 +4477,10 @@ while True:
     if condition:
         break
 ```
+
+<p align="center">
+  <img src="../../images/python_loop.png" width="800">
+</p>
 
 ---
 
@@ -4862,6 +4894,10 @@ def function_name(a: int, b: int) -> int:
     return a + b
 ```
 
+<p align="center">
+  <img src="../../images/python_func.png" width="800">
+</p>
+
 ---
 
 # 16. Python Lambdas
@@ -5050,6 +5086,10 @@ sorted(items, key=lambda item: item["score"])
 
 sorted(points, key=lambda point: point[1])
 ```
+
+<p align="center">
+  <img src="../../images/python_lamda.png" width="800">
+</p>
 
 ---
 
@@ -5411,6 +5451,9 @@ def countdown(n):
 
     countdown(n - 1)
 ```
+<p align="center">
+  <img src="../../images/python_recursion.png" width="800">
+</p>
 
 ---
 
@@ -6132,6 +6175,10 @@ class MyClass:
         return f"MyClass(value={self.value})"
 ```
 
+<p align="center">
+  <img src="../../images/python_class.png" width="800">
+</p>
+
 ---
 
 # 19. Python Inheritance
@@ -6590,6 +6637,10 @@ isinstance(obj, Parent)
 issubclass(Child, Parent)
 ```
 
+<p align="center">
+  <img src="../../images/python_inheritance.png" width="800">
+</p>
+
 ---
 
 # 20. Python Enums
@@ -6879,6 +6930,10 @@ class Status(Enum):
     STOPPED = auto()
 ```
 
+<p align="center">
+  <img src="../../images/python_enum.png" width="800">
+</p>
+
 ---
 
 # End of Phase 6
@@ -7050,6 +7105,10 @@ pip freeze > requirements.txt
 
 deactivate
 ```
+
+<p align="center">
+  <img src="../../images/python_virtual.png" width="800">
+</p>
 
 ---
 
@@ -7248,6 +7307,10 @@ import module_name as alias
 from module_name import *
 ```
 
+<p align="center">
+  <img src="../../images/python_module.png" width="800">
+</p>
+
 ---
 
 # 23. Python `if __name__ == "__main__"`
@@ -7425,6 +7488,10 @@ if __name__ == "__main__":
     main()
 ```
 
+<p align="center">
+  <img src="../../images/python_Guard.png" width="800">
+</p>
+
 ---
 
 # 24. Python requirements.txt
@@ -7595,6 +7662,10 @@ numpy==2.0.0
 matplotlib==3.9.0
 opencv-python==4.10.0.84
 ```
+
+<p align="center">
+  <img src="../../images/python_requirements.png" width="800">
+</p>
 
 ---
 
@@ -7811,6 +7882,10 @@ class LinkedList:
         self.head = None
 ```
 
+<p align="center">
+  <img src="../../images/python_linked_list.png" width="800">
+</p>
+
 ---
 
 # 26. Python Stack
@@ -7954,6 +8029,10 @@ stack.pop()
 stack[-1]
 len(stack) == 0
 ```
+
+<p align="center">
+  <img src="../../images/python_stack.png" width="800">
+</p>
 
 ---
 
@@ -8103,6 +8182,10 @@ queue.popleft()
 queue[0]
 len(queue) == 0
 ```
+
+<p align="center">
+  <img src="../../images/python_queue.png" width="800">
+</p>
 
 ---
 
@@ -8317,6 +8400,10 @@ inorder(root)
 preorder(root)
 postorder(root)
 ```
+
+<p align="center">
+  <img src="../../images/python_bst.png" width="800">
+</p>
 
 ---
 
@@ -8582,6 +8669,10 @@ def dfs(graph, node, visited):
 def bfs(graph, start):
     ...
 ```
+
+<p align="center">
+  <img src="../../images/python_graph.png" width="800">
+</p>
 
 ---
 
@@ -9004,6 +9095,10 @@ A @ B
 np.dot(A, B)
 ```
 
+<p align="center">
+  <img src="../../images/python_numpy.png" width="800">
+</p>
+
 ---
 
 # 31. Python Matplotlib
@@ -9265,6 +9360,10 @@ plt.grid(True)
 plt.savefig("figure.png")
 plt.show()
 ```
+
+<p align="center">
+  <img src="../../images/python_matpo.png" width="800">
+</p>
 
 ---
 
@@ -9535,6 +9634,10 @@ Batch  -> một nhóm dữ liệu nhỏ
 Output -> kết quả dự đoán
 ```
 
+<p align="center">
+  <img src="../../images/deep_overview.png" width="800">
+</p>
+
 ---
 
 # 34. Tensor and Data Representation
@@ -9796,6 +9899,10 @@ print(image.ndim)
 print(image.dtype)
 ```
 
+<p align="center">
+  <img src="../../images/tensor.png" width="800">
+</p>
+
 ---
 
 # 35. Forward Pass and Activation Functions
@@ -10041,6 +10148,10 @@ softmax = exp_scores / np.sum(exp_scores)
 predicted_index = np.argmax(softmax)
 ```
 
+<p align="center">
+  <img src="../../images/forward.png" width="800">
+</p>
+
 ---
 
 # 36. Loss Function
@@ -10217,6 +10328,10 @@ mae = np.mean(np.abs(predictions - targets))
 loss = -math.log(true_probability)
 ```
 
+<p align="center">
+  <img src="../../images/loss_func.png" width="800">
+</p>
+
 ---
 
 # 37. Gradient Descent
@@ -10391,6 +10506,10 @@ for epoch in range(num_epochs):
     update_weight()
 ```
 
+<p align="center">
+  <img src="../../images/Gradient.png" width="800">
+</p>
+
 ---
 
 # 38. Backpropagation Basics
@@ -10520,6 +10639,10 @@ loss -> gradient -> update weight
 Chain Rule:
 dLoss/dWeight = dLoss/dOutput * dOutput/dWeight
 ```
+
+<p align="center">
+  <img src="../../images/Backpropagation.png" width="800">
+</p>
 
 ---
 

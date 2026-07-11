@@ -384,6 +384,10 @@ Resolution  -> kích thước ảnh theo pixel
 Intensity   -> độ sáng pixel
 ```
 
+<p align="center">
+  <img src="../../images/Image_Fundamentals.png" width="800">
+</p>
+
 ---
 
 # 2. Pixel, Image Matrix & Channels
@@ -595,6 +599,10 @@ Dtype phổ biến       -> uint8
 Pixel access         -> image[y, x] hoặc image.at<type>(y, x)
 ```
 
+<p align="center">
+  <img src="../../images/Pixel_Matrix.png" width="800">
+</p>
+
 ---
 
 # 3. Image Coordinate System
@@ -758,6 +766,10 @@ y                -> tăng xuống dưới
 NumPy / OpenCV   -> image[y, x]
 row = y, col = x
 ```
+
+<p align="center">
+  <img src="../../images/Image_Coordinate.png" width="800">
+</p>
 
 ---
 
@@ -932,6 +944,10 @@ C++ include          -> #include <opencv2/opencv.hpp>
 C++ build            -> CMake + find_package(OpenCV REQUIRED)
 ```
 
+<p align="center">
+  <img src="../../images/OpenCV_Setup.png" width="800">
+</p>
+
 ---
 
 # 5. Read / Show / Save Image
@@ -1098,6 +1114,10 @@ C++ save      -> imwrite(path, image)
 
 Grayscale flag -> cv2.IMREAD_GRAYSCALE / IMREAD_GRAYSCALE
 ```
+
+<p align="center">
+  <img src="../../images/Read_Show_Save.png" width="800">
+</p>
 
 ---
 
@@ -1316,6 +1336,10 @@ Copy image        -> copy() / clone()
 ROI               -> cắt vùng con của ảnh
 Channels          -> image.shape[2] hoặc image.channels()
 ```
+
+<p align="center">
+  <img src="../../images/Basic_Image_Operations.png" width="800">
+</p>
 
 ---
 
@@ -1581,6 +1605,10 @@ LAB        -> Lightness + color components
 YCrCb      -> luminance + chrominance
 ```
 
+<p align="center">
+  <img src="../../images/Color.png" width="800">
+</p>
+
 ---
 
 # 8. Grayscale / RGB / BGR / HSV
@@ -1759,6 +1787,10 @@ BGR       -> ảnh gốc từ OpenCV
 RGB       -> thường dùng khi hiển thị với matplotlib / DL pipeline
 HSV       -> mạnh cho color threshold / color-based detection
 ```
+
+<p align="center">
+  <img src="../../images/Grayscale.png" width="800">
+</p>
 
 ---
 
@@ -1941,6 +1973,10 @@ Rotate -> xoay ảnh
 Flip   -> lật ảnh ngang / dọc
 ```
 
+<p align="center">
+  <img src="../../images/Resize.png" width="800">
+</p>
+
 ---
 
 # 10. Brightness & Contrast
@@ -2083,6 +2119,10 @@ Contrast   -> độ khác biệt sáng / tối
 alpha      -> contrast factor
 beta       -> brightness offset
 ```
+
+<p align="center">
+  <img src="../../images/Brightness.png" width="800">
+</p>
 
 ---
 
@@ -2265,6 +2305,10 @@ Median Blur    -> tốt cho salt-and-pepper noise
 Bilateral      -> làm mượt nhưng giữ biên tốt hơn
 ```
 
+<p align="center">
+  <img src="../../images/Blur.png" width="800">
+</p>
+
 ---
 
 # 12. Thresholding
@@ -2416,6 +2460,10 @@ Global Threshold    -> dùng 1 ngưỡng cho toàn ảnh
 Adaptive Threshold  -> ngưỡng cục bộ cho từng vùng
 Ứng dụng            -> OCR, contour, segmentation đơn giản
 ```
+
+<p align="center">
+  <img src="../../images/Thresholding.png" width="800">
+</p>
 
 ---
 
@@ -2626,6 +2674,10 @@ Opening  -> erosion + dilation (xóa noise nhỏ)
 Closing  -> dilation + erosion (lấp lỗ nhỏ)
 Kernel   -> structuring element cho morphology
 ```
+
+<p align="center">
+  <img src="../../images/Morphology.png" width="800">
+</p>
 
 ---
 
@@ -2857,6 +2909,10 @@ Flat region   -> ít thông tin, khó match
 Feature pipeline -> detect -> describe -> match -> estimate geometry
 ```
 
+<p align="center">
+  <img src="../../images/Feature.png" width="800">
+</p>
+
 ---
 
 # 15. Corner Detection
@@ -3026,6 +3082,10 @@ Harris        -> detector corner cổ điển
 Shi-Tomasi    -> corner detector / criterion phổ biến
 goodFeaturesToTrack -> hàm OpenCV hay dùng để lấy corner tốt
 ```
+
+<p align="center">
+  <img src="../../images/Corner_Detection.png" width="800">
+</p>
 
 ---
 

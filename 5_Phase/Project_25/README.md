@@ -115,7 +115,7 @@ Mini-project này yêu cầu bạn xây một hệ thống để robot:
 - ghi **tabletop scene memory report**
 
 <p align="center">
-  <img src="images/project_25.png" width="800">
+  <img src="../../images/project_25.png" width="800">
 </p>
 
 ---

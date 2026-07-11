@@ -202,7 +202,7 @@ Mỗi sample có thể gồm:
 ### f. Sinh report về stereo geometry quality
 
 <p align="center">
-  <img src="images/project_43.png" width="800">
+  <img src="../../images/project_43.png" width="800">
 </p>
 
 ---

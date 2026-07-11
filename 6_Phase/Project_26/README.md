@@ -89,7 +89,7 @@ Bài 26 = dựng lại "engine" feature registration sạch, tái sử dụng đ
 ```
 
 <p align="center">
-  <img src="images/project_26.png" width="800">
+  <img src="../../images/project_26.png" width="800">
 </p>
 
 ---

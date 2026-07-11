@@ -149,7 +149,7 @@ ObservationInputCommand
 Mỗi command sẽ chỉ làm **một trách nhiệm nhỏ**.
 
 <p align="center">
-  <img src="images/project_37.png" width="800">
+  <img src="../../images/project_37.png" width="800">
 </p>
 
 ---

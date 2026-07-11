@@ -162,7 +162,7 @@ kích thước vật có phù hợp để gắp / nắm hay không
 ```
 
 <p align="center">
-  <img src="images/project_15.png" width="800">
+  <img src="../../images/project_15.png" width="800">
 </p>
 
 ---

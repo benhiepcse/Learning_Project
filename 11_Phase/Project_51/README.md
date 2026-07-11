@@ -142,7 +142,7 @@ pair_01:
 8. ghi report so sánh BM vs SGM
 
 <p align="center">
-  <img src="images/project_51.png" width="800">
+  <img src="../../images/project_51.png" width="800">
 </p>
 
 ---

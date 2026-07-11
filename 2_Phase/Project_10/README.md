@@ -86,7 +86,7 @@ proposal_left_1  ↔  proposal_right_1
 là **cùng một object trong không gian 3D**, chỉ khác vị trí do stereo baseline.
 
 <p align="center">
-  <img src="images/project_10.png" width="800">
+  <img src="../../images/project_10.png" width="800">
 </p>
 
 ---

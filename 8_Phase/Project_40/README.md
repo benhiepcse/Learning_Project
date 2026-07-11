@@ -171,7 +171,7 @@ Sau đó generator sẽ tạo ra **dashboard summary** như:
 - overall pipeline quality label
 
 <p align="center">
-  <img src="images/project_40.png" width="800">
+  <img src="../../images/project_40.png" width="800">
 </p>
 
 ---

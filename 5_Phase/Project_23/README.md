@@ -107,7 +107,7 @@ Bài này rất quan trọng vì nó dạy robot cách:
 - chuẩn bị cho change detection, mapping, visual localization
 
 <p align="center">
-  <img src="images/project_23.png" width="800">
+  <img src="../../images/project_23.png" width="800">
 </p>
 
 ---

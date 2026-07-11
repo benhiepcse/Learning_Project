@@ -161,7 +161,7 @@ System này nhận đầu vào là:
 6. ghi **following tracking plan report**
 
 <p align="center">
-  <img src="images/project_66.png" width="800">
+  <img src="../../images/project_66.png" width="800">
 </p>
 
 ---

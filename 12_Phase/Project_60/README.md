@@ -173,7 +173,7 @@ System này nhận đầu vào là:
 6. ghi **navigation decision report**
 
 <p align="center">
-  <img src="images/project_60.png" width="800">
+  <img src="../../images/project_60.png" width="800">
 </p>
 
 ---

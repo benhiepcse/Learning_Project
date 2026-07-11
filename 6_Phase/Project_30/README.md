@@ -99,7 +99,7 @@ thì ta cần một tầng mới: **Cluster-Aware Visual Relocalization Query En
 - kết luận relocalization
 
 <p align="center">
-  <img src="images/project_30.png" width="800">
+  <img src="../../images/project_30.png" width="800">
 </p>
 
 ---
