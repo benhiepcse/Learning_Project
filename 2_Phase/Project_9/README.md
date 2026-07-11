@@ -1183,6 +1183,10 @@ History Length: 4
 Frames: 1, 2, 3, 4
 ```
 
+<p align="center">
+  <img src="../../images/output_project_9.png" width="800">
+</p>
+
 ---
 
 # 13. Vai trò của bài này trong Humanoid Robot

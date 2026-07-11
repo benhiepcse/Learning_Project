@@ -1119,6 +1119,10 @@ Valid: true
 ----------------------------------------
 ```
 
+<p align="center">
+  <img src="../../images/output_project_11..png" width="800">
+</p>
+
 ---
 
 # 14. Vai trò của bài này trong Humanoid Robot

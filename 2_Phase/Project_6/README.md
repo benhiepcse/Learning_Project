@@ -930,6 +930,10 @@ Valid: true
 ----------------------------------------
 ```
 
+<p align="center">
+  <img src="../../images/output_project_6.png" width="800">
+</p>
+
 ---
 
 # 13. Vai trò của bài này trong Humanoid Robot

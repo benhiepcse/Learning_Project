@@ -1350,6 +1350,10 @@ my_dict = {"a": 1, "b": 2}    # dict
 print(type(name))
 ```
 
+<p align="center">
+  <img src="../../images/python_variable.png" width="800">
+</p>
+
 ---
 
 # 5. Python Type Casting
@@ -1597,6 +1601,10 @@ my_set = set([1, 2, 2, 3])
 age = int(input("Enter age: "))
 height = float(input("Enter height: "))
 ```
+
+<p align="center">
+  <img src="../../images/python_type.png" width="800">
+</p>
 
 ---
 

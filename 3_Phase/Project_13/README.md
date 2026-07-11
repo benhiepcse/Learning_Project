@@ -1300,6 +1300,10 @@ x y z u v roi_name
 0.14 -0.01 0.87 214 160 object_region
 ```
 
+<p align="center">
+  <img src="../../images/output_project_13.png" width="800">
+</p>
+
 ---
 
 # 14. Vai trò của bài này trong Humanoid Robot

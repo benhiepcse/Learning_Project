@@ -937,6 +937,10 @@ string name = "Dang";
 dataType variableName = value;
 ```
 
+<p align="center">
+  <img src="../../images/cpp_variable.png" width="800">
+</p>
+
 ---
 
 # 4. C++ Type Casting
@@ -1142,6 +1146,10 @@ static_cast<bool>(value);
 int y = static_cast<int>(x);
 double z = static_cast<double>(a) / b;
 ```
+
+<p align="center">
+  <img src="../../images/cpp_type.png" width="800">
+</p>
 
 ---
 
